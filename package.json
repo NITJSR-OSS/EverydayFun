@@ -1,0 +1,11 @@
+{
+  "name": "everyday-fun",
+  "version": "1.0.1",
+  "description": "A simple NPM package which can return everyday quotes, jokes, riddles and interesting facts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritik Raj (rajlevel97@gmail.com)",
+  "license": "ISC"
+}
