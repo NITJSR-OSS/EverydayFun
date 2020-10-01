@@ -40,6 +40,26 @@
     "answer": "Wind"
   },
   {
+    "riddle": "What goes though towns and over hills but never moves?",
+    "answer": "Roads!"
+  },
+  {
+    "riddle": "How Long is a Chinese name?",
+    "answer": "How Long IS a Chinese name."
+  },
+  {
+    "riddle": "How can a son marry his mother?",
+    "answer": "The son is a priest who performed the marriage ceremony."
+  },
+  {
+    "riddle": "Two fathers and two sons walk into a candy store. They each buy something for $0.50 but they only spent $1.50. How is that possible?",
+    "answer": "One grandfather, one father and one son makes two fathers and two sons."
+  },
+  {
+    "riddle": "I am lighter than air but a hundred people cannot lift me. Careful, I am fragile. What am I?",
+    "answer": "A bubble"
+  },
+  {
     "riddle": "What month of an year has 28 days?",
     "answer": "All of them"
   },
@@ -162,4 +182,5 @@
   {
     "riddle": "What is so fragile that saying its name breaks it?",
     "answer": "Silence"
+  }
   }
