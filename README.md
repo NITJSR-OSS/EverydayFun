@@ -30,10 +30,6 @@ console.log(all.getRandomRiddle());
 {
       "Quote":"Don't cry because it's over, smile because it happened.",
       "Author":"Dr. Seuss"
-},
-{
-      "Quote":"Don't cry because it's over, smile because it happened.",
-      "Author":"Dr. Seuss"
 }
 ```
 - [ ] <b><i>getRandomJoke()</i></b> returns an object containing body and category -<br>
@@ -41,18 +37,10 @@ console.log(all.getRandomRiddle());
 {
       "body":"Paddy and Mick were standing at a road junction,they spotted a truck carrying aload of rolled up lawn turfPaddy says to Mick \"aye thats what i,m going to do when I win the lottery\"Mick says \"whats that then Paddy?\"Paddy replies \"send my grass away forcutting\".",
       "category":"Men"
-},
-{
-      "body":"Paddy and Mick were standing at a road junction,they spotted a truck carrying aload of rolled up lawn turfPaddy says to Mick \"aye thats what i,m going to do when I win the lottery\"Mick says \"whats that then Paddy?\"Paddy replies \"send my grass away forcutting\".",
-      "category":"Men"
 }
 ```
 - [ ] <b><i>getRandomRiddle()</i></b> returns an object containing riddle and answer -<br>
 ```json
-{
-    "riddle": "Thirty white horses on a red hill, First they champ, Then they stamp, Then they stand still. ",
-    "answer": "Teeth"
-},
 {
     "riddle": "Thirty white horses on a red hill, First they champ, Then they stamp, Then they stand still. ",
     "answer": "Teeth"
