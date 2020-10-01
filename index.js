@@ -30,7 +30,7 @@ function searchArray(items, element, criteria) {
 
 function getRandomQuote(author) {
   if(author) {
-    return searchArray(quotes, 'author', author)
+    return searchArray(quotes, 'Author', author)
   } else {
     return getRandomItem(quotes);
   }
