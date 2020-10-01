@@ -40,6 +40,10 @@
     "answer": "Wind"
   },
   {
+    "riddle": "What has hands but cannot clap?",
+    "answer": "A clock"
+  },
+  {
     "riddle": "What goes though towns and over hills but never moves?",
     "answer": "Roads!"
   },
@@ -183,4 +187,5 @@
     "riddle": "What is so fragile that saying its name breaks it?",
     "answer": "Silence"
   }
+
   }
