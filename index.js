@@ -13,21 +13,21 @@ function randomNoGenerator(min, max) {
 }
 
 module.exports.getRandomQuote = function () {
-  var ind = randomNoGenerator(0, 490);
+  var ind = randomNoGenerator(0, data_quote.length);
   cur.quote = data_quote[ind].Quote;
   cur.author = data_quote[ind].Author;
   return cur;
 };
 
 module.exports.getRandomJoke = function () {
-  var ind = randomNoGenerator(0, 490);
+  var ind = randomNoGenerator(0, data_joke.length);
   cur.body = data_joke[ind].body;
   cur.category = data_joke[ind].category;
   return cur;
 };
 
 module.exports.getRandomRiddle = function () {
-  var ind = randomNoGenerator(0, 8);
+  var ind = randomNoGenerator(0, data_riddle.length);
   cur.riddle = data_riddle[ind].riddle;
   cur.answer = data_riddle[ind].answer;
   return cur;
