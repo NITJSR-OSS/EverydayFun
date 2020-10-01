@@ -1,4 +1,2022 @@
 [
+  {
+    "Quote": "Don't cry because it's over, smile because it happened.",
+    "Author": "Dr. Seuss"
+  },
+  {
+    "Quote": "Don't cry because it's over, smile because it happened.",
+    "Author": "Dr. Seuss"
+  },
+  {
+    "Quote": "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
+    "Author": "Marilyn Monroe"
+  },
+  {
+    "Quote": "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
+    "Author": "Marilyn Monroe"
+  },
+  {
+    "Quote": "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
+    "Author": "Marilyn Monroe"
+  },
+  {
+    "Quote": "Be yourself; everyone else is already taken.",
+    "Author": "Oscar Wilde"
+  },
+  {
+    "Quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
+    "Author": "Bernard M. Baruch"
+  },
+  {
+    "Quote": "You've gotta dance like there's nobody watching,Love like you'll never be hurt,Sing like there's nobody listening,And live like it's heaven on earth.",
+    "Author": "William W. Purkey"
+  },
+  {
+    "Quote": "You've gotta dance like there's nobody watching,Love like you'll never be hurt,Sing like there's nobody listening,And live like it's heaven on earth.",
+    "Author": "William W. Purkey"
+  },
+  {
+    "Quote": "You've gotta dance like there's nobody watching,Love like you'll never be hurt,Sing like there's nobody listening,And live like it's heaven on earth.",
+    "Author": "William W. Purkey"
+  },
+  {
+    "Quote": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+    "Author": "Dr. Seuss"
+  },
+  {
+    "Quote": "A room without books is like a body without a soul.",
+    "Author": "Marcus Tullius Cicero"
+  },
+  {
+    "Quote": "A room without books is like a body without a soul.",
+    "Author": "Marcus Tullius Cicero"
+  },
+  {
+    "Quote": "So many books, so little time.",
+    "Author": "Frank Zappa"
+  },
+  {
+    "Quote": "So many books, so little time.",
+    "Author": "Frank Zappa"
+  },
+  {
+    "Quote": "You only live once, but if you do it right, once is enough.",
+    "Author": "Mae West"
+  },
+  {
+    "Quote": "You only live once, but if you do it right, once is enough.",
+    "Author": "Mae West"
+  },
+  {
+    "Quote": "Be the change that you wish to see in the world.",
+    "Author": "Mahatma Gandhi"
+  },
+  {
+    "Quote": "Be the change that you wish to see in the world.",
+    "Author": "Mahatma Gandhi"
+  },
+  {
+    "Quote": "In three words I can sum up everything I've learned about life: it goes on.",
+    "Author": "Robert Frost"
+  },
+  {
+    "Quote": "Friendship ... is born at the moment when one man says to another \"What! You too? I thought that no one but myself . . .",
+    "Author": "C.S. Lewis,  The Four Loves"
+  },
+  {
+    "Quote": "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
+    "Author": "J.K. Rowling,  Harry Potter and the Goblet of Fire"
+  },
+  {
+    "Quote": "Don\u2019t walk in front of me\u2026 I may not followDon\u2019t walk behind me\u2026 I may not leadWalk beside me\u2026 just be my friend",
+    "Author": "Albert Camus"
+  },
+  {
+    "Quote": "No one can make you feel inferior without your consent.",
+    "Author": "Eleanor Roosevelt,  This is My Story"
+  },
+  {
+    "Quote": "No one can make you feel inferior without your consent.",
+    "Author": "Eleanor Roosevelt,  This is My Story"
+  },
+  {
+    "Quote": "If you tell the truth, you don't have to remember anything.",
+    "Author": "Mark Twain"
+  },
+  {
+    "Quote": "A friend is someone who knows all about you and still loves you.",
+    "Author": "Elbert Hubbard"
+  },
+  {
+    "Quote": "A friend is someone who knows all about you and still loves you.",
+    "Author": "Elbert Hubbard"
+  },
+  {
+    "Quote": "Always forgive your enemies; nothing annoys them so much.",
+    "Author": "Oscar Wilde"
+  },
+  {
+    "Quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "Author": "Maya Angelou"
+  },
+  {
+    "Quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "Author": "Mahatma Gandhi"
+  },
+  {
+    "Quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "Author": "Mahatma Gandhi"
+  },
+  {
+    "Quote": "I am so clever that sometimes I don't understand a single word of what I am saying.",
+    "Author": "Oscar Wilde,  The Happy Prince and Other Stories"
+  },
+  {
+    "Quote": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+    "Author": "Martin Luther King Jr.,  A Testament of Hope: The Essential Writings and Speeches"
+  },
+  {
+    "Quote": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+    "Author": "Martin Luther King Jr.,  A Testament of Hope: The Essential Writings and Speeches"
+  },
+  {
+    "Quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "Author": "Oscar Wilde"
+  },
+  {
+    "Quote": "Without music, life would be a mistake.",
+    "Author": "Friedrich Nietzsche,  Twilight of the Idols"
+  },
+  {
+    "Quote": "Without music, life would be a mistake.",
+    "Author": "Friedrich Nietzsche,  Twilight of the Idols"
+  },
+  {
+    "Quote": "Insanity is doing the same thing, over and over again, but expecting different results.",
+    "Author": "Narcotics Anonymous"
+  },
+  {
+    "Quote": "Insanity is doing the same thing, over and over again, but expecting different results.",
+    "Author": "Narcotics Anonymous"
+  },
+  {
+    "Quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+    "Author": "Ralph Waldo Emerson"
+  },
+  {
+    "Quote": "I believe that everything happens for a reason. People change so that you can learn to let go, things go wrong so that you appreciate them when they're right, you believe lies so you eventually learn to trust no one but yourself, and sometimes good things fall apart so better things can fall together.",
+    "Author": "Marilyn Monroe"
+  },
+  {
+    "Quote": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.",
+    "Author": "H. Jackson Brown Jr.,  P.S. I Love You"
+  },
+  {
+    "Quote": "We accept the love we think we deserve.",
+    "Author": "Stephen Chbosky,  The Perks of Being a Wallflower"
+  },
+  {
+    "Quote": "We accept the love we think we deserve.",
+    "Author": "Stephen Chbosky,  The Perks of Being a Wallflower"
+  },
+  {
+    "Quote": "It is better to be hated for what you are than to be loved for what you are not.",
+    "Author": "Andr\u00e9 Gide,  Autumn Leaves"
+  },
+  {
+    "Quote": "It is better to be hated for what you are than to be loved for what you are not.",
+    "Author": "Andr\u00e9 Gide,  Autumn Leaves"
+  },
+  {
+    "Quote": "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",
+    "Author": "Marilyn Monroe"
+  },
+  {
+    "Quote": "All that is gold does not glitter,Not all those who wander are lost;The old that is strong does not wither,Deep roots are not reached by the frost.From the ashes a fire shall be woken,A light from the shadows shall spring;Renewed shall be blade that was broken,The crownless again shall be king.",
+    "Author": "J.R.R. Tolkien,  The Fellowship of the Ring"
+  },
+  {
+    "Quote": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+    "Author": "Jane Austen,  Northanger Abbey"
+  },
+  {
+    "Quote": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+    "Author": "Jane Austen,  Northanger Abbey"
+  },
+  {
+    "Quote": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it.",
+    "Author": "Maurice Switzer"
+  },
+  {
+    "Quote": "As he read, I fell in love the way you fall asleep: slowly, and then all at once.",
+    "Author": "John Green,  The Fault in Our Stars"
+  },
+  {
+    "Quote": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+    "Author": "J.K. Rowling,  Harry Potter and the Chamber of Secrets"
+  },
+  {
+    "Quote": "Life is what happens to you while you're busy making other plans.",
+    "Author": "Allen Saunders"
+  },
+  {
+    "Quote": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+    "Author": "Mark Twain"
+  },
+  {
+    "Quote": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+    "Author": "Mark Twain"
+  },
+  {
+    "Quote": "Whenever you find yourself on the side of the majority, it is time to reform (or pause and reflect).",
+    "Author": "Mark Twain"
+  },
+  {
+    "Quote": "It does not do to dwell on dreams and forget to live.",
+    "Author": "J.K. Rowling,  Harry Potter and the Sorcerer's Stone"
+  },
+  {
+    "Quote": "The fool doth think he is wise, but the wise man knows himself to be a fool.",
+    "Author": "William Shakespeare,  As You Like It"
+  },
+  {
+    "Quote": "A woman is like a tea bag; you never know how strong it is until it's in hot water.",
+    "Author": "Eleanor Roosevelt"
+  },
+  {
+    "Quote": "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.",
+    "Author": "Bil Keane"
+  },
+  {
+    "Quote": "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.",
+    "Author": "Bil Keane"
+  },
+  {
+    "Quote": "We are all in the gutter, but some of us are looking at the stars.",
+    "Author": "Oscar Wilde,  Lady Windermere's Fan"
+  },
+  {
+    "Quote": "If you don't stand for something you will fall for anything.",
+    "Author": "Gordon A. Eadie"
+  },
+  {
+    "Quote": "The man who does not read has no advantage over the man who cannot read.",
+    "Author": "Mark Twain"
+  },
+  {
+    "Quote": "I have not failed. I've just found 10,000 ways that won't work.",
+    "Author": "Thomas A. Edison"
+  },
+  {
+    "Quote": "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
+    "Author": "Friedrich Nietzsche"
+  },
+  {
+    "Quote": "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
+    "Author": "Friedrich Nietzsche"
+  },
+  {
+    "Quote": "The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.",
+    "Author": "Elie Wiesel"
+  },
+  {
+    "Quote": "The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.",
+    "Author": "Elie Wiesel"
+  },
+  {
+    "Quote": "The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.",
+    "Author": "Elie Wiesel"
+  },
+  {
+    "Quote": "Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.",
+    "Author": "Neil Gaiman,  Coraline"
+  },
+  {
+    "Quote": "Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.",
+    "Author": "Neil Gaiman,  Coraline"
+  },
+  {
+    "Quote": "Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read.",
+    "Author": "Groucho Marx,  The Essential Groucho: Writings For By And About Groucho Marx"
+  },
+  {
+    "Quote": "Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read.",
+    "Author": "Groucho Marx,  The Essential Groucho: Writings For By And About Groucho Marx"
+  },
+  {
+    "Quote": "I may not have gone where I intended to go, but I think I have ended up where I needed to be.",
+    "Author": "Douglas Adams,  The Long Dark Tea-Time of the Soul"
+  },
+  {
+    "Quote": "I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "A day without sunshine is like, you know, night.",
+    "Author": "Steve Martin"
+  },
+  {
+    "Quote": "I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.",
+    "Author": "Dr. Seuss"
+  },
+  {
+    "Quote": "Never put off till tomorrow what may be done day after tomorrow just as well.",
+    "Author": "Mark Twain"
+  },
+  {
+    "Quote": "I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.",
+    "Author": "Pablo Neruda,  100 Love Sonnets"
+  },
+  {
+    "Quote": "I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.",
+    "Author": "Pablo Neruda,  100 Love Sonnets"
+  },
+  {
+    "Quote": "I solemnly swear that I am up to no good.",
+    "Author": "J.K. Rowling,  Harry Potter and the Prisoner of Azkaban"
+  },
+  {
+    "Quote": "That which does not kill us makes us stronger.",
+    "Author": "Friedrich Nietzsche"
+  },
+  {
+    "Quote": "Have you ever been in love? Horrible isn't it? It makes you so vulnerable. It opens your chest and it opens up your heart and it means that someone can get inside you and mess you up.",
+    "Author": "Neil Gaiman,  The Sandman, Vol. 9: The Kindly Ones"
+  },
+  {
+    "Quote": "Love all, trust a few, do wrong to none.",
+    "Author": "William Shakespeare,  All's Well That Ends Well"
+  },
+  {
+    "Quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go...",
+    "Author": "Dr. Seuss,  Oh, The Places You'll Go!"
+  },
+  {
+    "Quote": "If you judge people, you have no time to love them.",
+    "Author": "Mother Teresa"
+  },
+  {
+    "Quote": "There is never a time or place for true love. It happens accidentally, in a heartbeat, in a single flashing, throbbing moment.",
+    "Author": "Sarah Dessen,  The Truth About Forever"
+  },
+  {
+    "Quote": "For every minute you are angry you lose sixty seconds of happiness.",
+    "Author": "Ralph Waldo Emerson"
+  },
+  {
+    "Quote": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+    "Author": "Lao Tzu"
+  },
+  {
+    "Quote": "My thoughts are stars I cannot fathom into constellations.",
+    "Author": "John Green,  The Fault in Our Stars"
+  },
+  {
+    "Quote": "I love deadlines. I love the whooshing noise they make as they go by.",
+    "Author": "Douglas Adams,  The Salmon of Doubt"
+  },
+  {
+    "Quote": "I love deadlines. I love the whooshing noise they make as they go by.",
+    "Author": "Douglas Adams,  The Salmon of Doubt"
+  },
+  {
+    "Quote": "It is never too late to be what you might have been.",
+    "Author": "George Eliot"
+  },
+  {
+    "Quote": "Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.",
+    "Author": "Garrison Keillor"
+  },
+  {
+    "Quote": "Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.",
+    "Author": "Garrison Keillor"
+  },
+  {
+    "Quote": "A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.",
+    "Author": "George R.R. Martin,  A Dance with Dragons"
+  },
+  {
+    "Quote": "I'm not upset that you lied to me, I'm upset that from now on I can't believe you.",
+    "Author": "Friedrich Nietzsche"
+  },
+  {
+    "Quote": "If you can't explain it to a six year old, you don't understand it yourself.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "Women and cats will do as they please, and men and dogs should relax and get used to the idea.",
+    "Author": "Robert A. Heinlein"
+  },
+  {
+    "Quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+    "Author": "J.K. Rowling,  Harry Potter and the Sorcerer's Stone"
+  },
+  {
+    "Quote": "Love is that condition in which the happiness of another person is essential to your own.",
+    "Author": "Robert A. Heinlein,  Stranger in a Strange Land"
+  },
+  {
+    "Quote": "Love is that condition in which the happiness of another person is essential to your own.",
+    "Author": "Robert A. Heinlein,  Stranger in a Strange Land"
+  },
+  {
+    "Quote": "Sometimes the questions are complicated and the answers are simple.",
+    "Author": "Dr. Seuss"
+  },
+  {
+    "Quote": "I have always imagined that Paradise will be a kind of library.",
+    "Author": "Jorge Luis Borges"
+  },
+  {
+    "Quote": "We read to know we're not alone.",
+    "Author": "William Nicholson,  Shadowlands"
+  },
+  {
+    "Quote": "You love me. Real or not real?\"I tell him, \"Real.",
+    "Author": "Suzanne Collins,  Mockingjay"
+  },
+  {
+    "Quote": "We don't see things as they are, we see them as we are.",
+    "Author": "Ana\u00efs Nin"
+  },
+  {
+    "Quote": "Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.",
+    "Author": "Jim Henson"
+  },
+  {
+    "Quote": "All you need is love. But a little chocolate now and then doesn't hurt.",
+    "Author": "Charles M. Schulz"
+  },
+  {
+    "Quote": "Everything you can imagine is real.",
+    "Author": "Pablo Picasso"
+  },
+  {
+    "Quote": "Everything you can imagine is real.",
+    "Author": "Pablo Picasso"
+  },
+  {
+    "Quote": "There is no greater agony than bearing an untold story inside you.",
+    "Author": "Maya Angelou,  I Know Why the Caged Bird Sings"
+  },
+  {
+    "Quote": "There is no greater agony than bearing an untold story inside you.",
+    "Author": "Maya Angelou,  I Know Why the Caged Bird Sings"
+  },
+  {
+    "Quote": "Today you are You, that is truer than true. There is no one alive who is Youer than You.",
+    "Author": "Dr. Seuss,  Happy Birthday to You!"
+  },
+  {
+    "Quote": "Sometimes, you read a book and it fills you with this weird evangelical zeal, and you become convinced that the shattered world will never be put back together unless and until all living humans read the book.",
+    "Author": "John Green,  The Fault in Our Stars"
+  },
+  {
+    "Quote": "Never trust anyone who has not brought a book with them.",
+    "Author": "Lemony Snicket,  Horseradish"
+  },
+  {
+    "Quote": "Whenever I feel the need to exercise, I lie down until it goes away.",
+    "Author": "Paul Terry"
+  },
+  {
+    "Quote": "I'm not afraid of death; I just don't want to be there when it happens.",
+    "Author": "Woody Allen"
+  },
+  {
+    "Quote": "I'm not afraid of death; I just don't want to be there when it happens.",
+    "Author": "Woody Allen"
+  },
+  {
+    "Quote": "I'm not afraid of death; I just don't want to be there when it happens.",
+    "Author": "Woody Allen"
+  },
+  {
+    "Quote": "I am nothing special, of this I am sure. I am a common man with common thoughts and I've led a common life. There are no monuments dedicated to me and my name will soon be forgotten, but I've loved another with all my heart and soul, and to me, this has always been enough..",
+    "Author": "Nicholas Sparks,  The Notebook"
+  },
+  {
+    "Quote": "If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "Have you fallen in love with the wrong person yet?'Jace said, \"Unfortunately, Lady of the Haven, my one true love remains myself.\"...\"At least,\"she said, \"you don't have to worry about rejection, Jace Wayland.\"\"Not necessarily. I turn myself down occasionally, just to keep it interesting.",
+    "Author": "Cassandra Clare,  City of Bones"
+  },
+  {
+    "Quote": "If you live to be a hundred, I want to live to be a hundred minus one day so I never have to live without you.",
+    "Author": "Joan Powers,  Pooh's Little Instruction Book"
+  },
+  {
+    "Quote": "Logic will get you from A to Z; imagination will get you everywhere.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "One good thing about music, when it hits you, you feel no pain.",
+    "Author": "Bob Marley"
+  },
+  {
+    "Quote": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+    "Author": "Dr. Seuss,  I Can Read With My Eyes Shut!"
+  },
+  {
+    "Quote": "Not all of us can do great things. But we can do small things with great love.",
+    "Author": "Mother Teresa"
+  },
+  {
+    "Quote": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.",
+    "Author": "J.K. Rowling"
+  },
+  {
+    "Quote": "You don't get to choose if you get hurt in this world...but you do have some say in who hurts you. I like my choices.",
+    "Author": "John Green,  The Fault in Our Stars"
+  },
+  {
+    "Quote": "You don\u2019t have a soul, Doctor. You are a soul. You have a body, temporarily.",
+    "Author": "Walter M. Miller Jr.,  A Canticle for Leibowitz"
+  },
+  {
+    "Quote": "The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.",
+    "Author": "Bob Marley"
+  },
+  {
+    "Quote": "Folks are usually about as happy as they make their minds up to be.",
+    "Author": "Abraham Lincoln"
+  },
+  {
+    "Quote": "Love looks not with the eyes, but with the mind,And therefore is winged Cupid painted blind.",
+    "Author": "William Shakespeare,  A Midsummer Night's Dream"
+  },
+  {
+    "Quote": "If you only read the books that everyone else is reading, you can only think what everyone else is thinking.",
+    "Author": "Haruki Murakami,  Norwegian Wood"
+  },
+  {
+    "Quote": "Love is like the wind, you can't see it but you can feel it.",
+    "Author": "Nicholas Sparks,  A Walk to Remember"
+  },
+  {
+    "Quote": "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?",
+    "Author": "J.K. Rowling,  Harry Potter and the Deathly Hallows"
+  },
+  {
+    "Quote": "Sometimes people are beautiful.Not in looks.Not in what they say.Just in what they are.",
+    "Author": "Markus Zusak,  I Am the Messenger"
+  },
+  {
+    "Quote": "You can never get a cup of tea large enough or a book long enough to suit me.",
+    "Author": "C.S. Lewis"
+  },
+  {
+    "Quote": "You can never get a cup of tea large enough or a book long enough to suit me.",
+    "Author": "C.S. Lewis"
+  },
+  {
+    "Quote": "If one cannot enjoy reading a book over and over again, there is no use in reading it at all.",
+    "Author": "Oscar Wilde"
+  },
+  {
+    "Quote": "The difference between genius and stupidity is: genius has its limits.",
+    "Author": "Alexandre Dumas-fils"
+  },
+  {
+    "Quote": "I would venture to guess that Anon, who wrote so many poems without signing them, was often a woman.",
+    "Author": "Virginia Woolf"
+  },
+  {
+    "Quote": "Do what you can, with what you have, where you are.",
+    "Author": "Theodore Roosevelt"
+  },
+  {
+    "Quote": "If you can make a woman laugh, you can make her do anything.",
+    "Author": "Marilyn Monroe"
+  },
+  {
+    "Quote": "To the well-organized mind, death is but the next great adventure.",
+    "Author": "J.K. Rowling,  Harry Potter and the Sorcerer's Stone"
+  },
+  {
+    "Quote": "To the well-organized mind, death is but the next great adventure.",
+    "Author": "J.K. Rowling,  Harry Potter and the Sorcerer's Stone"
+  },
+  {
+    "Quote": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Listen to the never haves, then listen close to me... Anything can happen, child. Anything can be.",
+    "Author": "Shel Silverstein"
+  },
+  {
+    "Quote": "Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Listen to the never haves, then listen close to me... Anything can happen, child. Anything can be.",
+    "Author": "Shel Silverstein"
+  },
+  {
+    "Quote": "We\u2019re all a little weird. And life is a little weird. And when we find someone whose weirdness is compatible with ours, we join up with them and fall into mutually satisfying weirdness\u2014and call it love\u2014true love.",
+    "Author": "Robert Fulghum,  True Love"
+  },
+  {
+    "Quote": "I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.",
+    "Author": "Groucho Marx"
+  },
+  {
+    "Quote": "I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.",
+    "Author": "Groucho Marx"
+  },
+  {
+    "Quote": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
+    "Author": "Helen Keller"
+  },
+  {
+    "Quote": "Life isn't about finding yourself. Life is about creating yourself.",
+    "Author": "George Bernard Shaw"
+  },
+  {
+    "Quote": "Life isn't about finding yourself. Life is about creating yourself.",
+    "Author": "George Bernard Shaw"
+  },
+  {
+    "Quote": "You don't love someone because they're perfect, you love them in spite of the fact that they're not.",
+    "Author": "Jodi Picoult,  My Sister's Keeper"
+  },
+  {
+    "Quote": "He's like a drug for you, Bella.",
+    "Author": "Stephenie Meyer,  Eclipse"
+  },
+  {
+    "Quote": "A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.",
+    "Author": "Marilyn Monroe"
+  },
+  {
+    "Quote": "The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.",
+    "Author": "Marilyn Monroe"
+  },
+  {
+    "Quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "Some infinities are bigger than other infinities.",
+    "Author": "John Green,  The Fault in Our Stars"
+  },
+  {
+    "Quote": "Love never dies a natural death. It dies because we don't know how to replenish its source. It dies of blindness and errors and betrayals. It dies of illness and wounds; it dies of weariness, of witherings, of tarnishings.",
+    "Author": "Ana\u00efs Nin"
+  },
+  {
+    "Quote": "Love never dies a natural death. It dies because we don't know how to replenish its source. It dies of blindness and errors and betrayals. It dies of illness and wounds; it dies of weariness, of witherings, of tarnishings.",
+    "Author": "Ana\u00efs Nin"
+  },
+  {
+    "Quote": "There is no friend as loyal as a book.",
+    "Author": "Ernest Hemingway"
+  },
+  {
+    "Quote": "Who are you to judge the life I live?I know I'm not perfect-and I don't live to be-but before you start pointing fingers...make sure you hands are clean!",
+    "Author": "Bob Marley"
+  },
+  {
+    "Quote": "The story so far:In the beginning the Universe was created.This has made a lot of people very angry and been widely regarded as a bad move.",
+    "Author": "Douglas Adams,  The Restaurant at the End of the Universe"
+  },
+  {
+    "Quote": "Time you enjoy wasting is not wasted time.",
+    "Author": "Marthe Troly-Curtin,  Phrynette Married"
+  },
+  {
+    "Quote": "Piglet sidled up to Pooh from behind. \"Pooh!\"he whispered.\"Yes, Piglet?\"\"Nothing,\"said Piglet, taking Pooh's paw. \"I just wanted to be sure of you.",
+    "Author": "A.A. Milne,  The House at Pooh Corner"
+  },
+  {
+    "Quote": "I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.",
+    "Author": "Marilyn Monroe"
+  },
+  {
+    "Quote": "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.",
+    "Author": "Jane Austen,  Northanger Abbey"
+  },
+  {
+    "Quote": "Do one thing every day that scares you.",
+    "Author": "Eleanor Roosevelt"
+  },
+  {
+    "Quote": "The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.",
+    "Author": "Terry Pratchett,  Diggers"
+  },
+  {
+    "Quote": "If I had a flower for every time I thought of you...I could walk through my garden forever.",
+    "Author": "Alfred Lord Tennyson"
+  },
+  {
+    "Quote": "It matters not what someone is born, but what they grow to be.",
+    "Author": "J.K. Rowling,  Harry Potter and the Goblet of Fire"
+  },
+  {
+    "Quote": "Some people never go crazy. What truly horrible lives they must lead.",
+    "Author": "Charles Bukowski"
+  },
+  {
+    "Quote": "Reality continues to ruin my life.",
+    "Author": "Bill Watterson,  The Complete Calvin and Hobbes"
+  },
+  {
+    "Quote": "Reality continues to ruin my life.",
+    "Author": "Bill Watterson,  The Complete Calvin and Hobbes"
+  },
+  {
+    "Quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "Author": "Winston S. Churchill"
+  },
+  {
+    "Quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "Author": "Winston S. Churchill"
+  },
+  {
+    "Quote": "It is what you read when you don't have to that determines what you will be when you can't help it.",
+    "Author": "Oscar Wilde"
+  },
+  {
+    "Quote": "There is no pretending,\"Jace said with absolute clarity. \"I love you, and I will love you until I die, and if there is life after that, I'll love you then.",
+    "Author": "Cassandra Clare,  City of Glass"
+  },
+  {
+    "Quote": "So, this is my life. And I want you to know that I am both happy and sad and I'm still trying to figure out how that could be.",
+    "Author": "Stephen Chbosky,  The Perks of Being a Wallflower"
+  },
+  {
+    "Quote": "I love mankind ... it's people I can't stand!!",
+    "Author": "Charles M. Schulz,  The Complete Peanuts, Vol. 5: 1959-1960"
+  },
+  {
+    "Quote": "Things change. And friends leave. Life doesn't stop for anybody.",
+    "Author": "Stephen Chbosky,  The Perks of Being a Wallflower"
+  },
+  {
+    "Quote": "Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.",
+    "Author": "Suzanne Collins,  The Hunger Games"
+  },
+  {
+    "Quote": "You don\u2019t forget the face of the person who was your last hope.",
+    "Author": "Suzanne Collins,  The Hunger Games"
+  },
+  {
+    "Quote": "The only way out of the labyrinth of suffering is to forgive.",
+    "Author": "John Green,  Looking for Alaska"
+  },
+  {
+    "Quote": "Go to heaven for the climate and hell for the company.",
+    "Author": "Benjamin Franklin Wade"
+  },
+  {
+    "Quote": "Go to heaven for the climate and hell for the company.",
+    "Author": "Benjamin Franklin Wade"
+  },
+  {
+    "Quote": "The reason I talk to myself is because I\u2019m the only one whose answers I accept.",
+    "Author": "George Carlin"
+  },
+  {
+    "Quote": "The reason I talk to myself is because I\u2019m the only one whose answers I accept.",
+    "Author": "George Carlin"
+  },
+  {
+    "Quote": "I am free of all prejudice. I hate everyone equally.",
+    "Author": "W.C. Fields"
+  },
+  {
+    "Quote": "What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.",
+    "Author": "J.D. Salinger,  The Catcher in the Rye"
+  },
+  {
+    "Quote": "What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.",
+    "Author": "J.D. Salinger,  The Catcher in the Rye"
+  },
+  {
+    "Quote": "What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose.",
+    "Author": "Margaret Thatcher"
+  },
+  {
+    "Quote": "At the moment of death I hope to be surprised.",
+    "Author": "Ivan Illich"
+  },
+  {
+    "Quote": "Unrest of spirit is a mark of life.",
+    "Author": "Karl A. Menninger"
+  },
+  {
+    "Quote": "Humor is something that thrives between man's aspirations and his limitations. There is more logic in humor than in anything else. Because, you see, humor is truth.",
+    "Author": "Victor Borge"
+  },
+  {
+    "Quote": "Literature is the art of discovering something extraordinary about ordinary people, and saying with ordinary words something extraordinary.",
+    "Author": "Boris Pasternak"
+  },
+  {
+    "Quote": "Literature is the art of discovering something extraordinary about ordinary people, and saying with ordinary words something extraordinary.",
+    "Author": "Boris Pasternak"
+  },
+  {
+    "Quote": "If everyone is moving forward together, then success takes care of itself.",
+    "Author": "Henry Ford"
+  },
+  {
+    "Quote": "Hope is the only universal liar who never loses his reputation for veracity.",
+    "Author": "Robert Green Ingersoll"
+  },
+  {
+    "Quote": "Ships that pass in the night, and speak each other in passing, only a signal shown, and a distant voice in the darkness; So on the ocean of life, we pass and speak one another, only a look and a voice, then darkness again and a silence.",
+    "Author": "Henry Wadsworth Longfellow"
+  },
+  {
+    "Quote": "Love is the beauty of the soul.",
+    "Author": "Saint Augustine"
+  },
+  {
+    "Quote": "Wit - the salt with which the American humorist spoils his intellectual cookery by leaving it out.",
+    "Author": "Ambrose Bierce"
+  },
+  {
+    "Quote": "Politics is the art of controlling your environment.",
+    "Author": "Hunter S. Thompson"
+  },
+  {
+    "Quote": "He has achieved success who has worked well, laughed often, and loved much.",
+    "Author": "Elbert Hubbard"
+  },
+  {
+    "Quote": "Hope is the last thing a person does before they are defeated.",
+    "Author": "Henry Rollins"
+  },
+  {
+    "Quote": "Life is a gift, given in trust - like a child.",
+    "Author": "Anne Morrow Lindbergh"
+  },
+  {
+    "Quote": "Where there is love there is life.",
+    "Author": "Mahatma Gandhi"
+  },
+  {
+    "Quote": "Where there is love there is life.",
+    "Author": "Mahatma Gandhi"
+  },
+  {
+    "Quote": "Humor brings insight and tolerance. Irony brings a deeper and less friendly understanding.",
+    "Author": "Agnes Repplier"
+  },
+  {
+    "Quote": "Advertising is the art of convincing people to spend money they don't have for something they don't need.",
+    "Author": "Will Rogers"
+  },
+  {
+    "Quote": "Success makes so many people hate you. I wish it wasn't that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.",
+    "Author": "Marilyn Monroe"
+  },
+  {
+    "Quote": "The world is bad but not without hope. It is only hopeless when you look at it from an ideal viewpoint.",
+    "Author": "Friedrich Durrenmatt"
+  },
+  {
+    "Quote": "Life is wasted on the living.",
+    "Author": "Douglas Adams"
+  },
+  {
+    "Quote": "A kiss is a lovely trick designed by nature to stop speech when words become superfluous.",
+    "Author": "Ingrid Bergman"
+  },
+  {
+    "Quote": "Humor can alter any situation and help us cope at the very instant we are laughing.",
+    "Author": "Allen Klein"
+  },
+  {
+    "Quote": "Just as pure abstract art is not dogmatic, neither is it decorative.",
+    "Author": "Piet Mondrian"
+  },
+  {
+    "Quote": "Success comes from knowing that you did your best to become the best that you are capable of becoming.",
+    "Author": "John Wooden"
+  },
+  {
+    "Quote": "It's time to get real, folks. Hope and change ain't working. Hope and change is not a solution. Hope and change is not a job.",
+    "Author": "Herman Cain"
+  },
+  {
+    "Quote": "Life in abundance comes only through great love.",
+    "Author": "Elbert Hubbard"
+  },
+  {
+    "Quote": "Life is the flower for which love is the honey.",
+    "Author": "Victor Hugo"
+  },
+  {
+    "Quote": "Life is the flower for which love is the honey.",
+    "Author": "Victor Hugo"
+  },
+  {
+    "Quote": "The best way to make your audience laugh is to start laughing yourself.",
+    "Author": "Oliver Goldsmith"
+  },
+  {
+    "Quote": "Don't only practice your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine.",
+    "Author": "Ludwig van Beethoven"
+  },
+  {
+    "Quote": "The most important single ingredient in the formula of success is knowing how to get along with people.",
+    "Author": "Theodore Roosevelt"
+  },
+  {
+    "Quote": "I always believe things are going to work out.",
+    "Author": "Francoise Sagan"
+  },
+  {
+    "Quote": "Life is a culmination of the past, an awareness of the present, an indication of a future beyond knowledge, the quality that gives a touch of divinity to matter.",
+    "Author": "Charles Lindbergh"
+  },
+  {
+    "Quote": "Love is being stupid together.",
+    "Author": "Paul Valery"
+  },
+  {
+    "Quote": "Comedy has to be based on truth. You take the truth and you put a little curlicue at the end.",
+    "Author": "Sid Caesar"
+  },
+  {
+    "Quote": "Architecture is the art of how to waste space.",
+    "Author": "Philip Johnson"
+  },
+  {
+    "Quote": "It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.",
+    "Author": "Leonardo da Vinci"
+  },
+  {
+    "Quote": "We often call a certainty a hope, to bring it luck.",
+    "Author": "Elizabeth Bibesco"
+  },
+  {
+    "Quote": "To live is so startling it leaves little time for anything else.",
+    "Author": "Emily Dickinson"
+  },
+  {
+    "Quote": "To live is so startling it leaves little time for anything else.",
+    "Author": "Emily Dickinson"
+  },
+  {
+    "Quote": "You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You yourself, as much as anybody in the entire universe deserve your love and affection.",
+    "Author": "Buddha"
+  },
+  {
+    "Quote": "There seems to be no lengths to which humorless people will not go to analyze humor. It seems to worry them.",
+    "Author": "Robert Benchley"
+  },
+  {
+    "Quote": "People discuss my art and pretend to understand as if it were necessary to understand, when it's simply necessary to love.",
+    "Author": "Claude Monet"
+  },
+  {
+    "Quote": "People discuss my art and pretend to understand as if it were necessary to understand, when it's simply necessary to love.",
+    "Author": "Claude Monet"
+  },
+  {
+    "Quote": "Always bear in mind that your own resolution to succeed is more important than any other.",
+    "Author": "Abraham Lincoln"
+  },
+  {
+    "Quote": "Hope is independent of the apparatus of logic.",
+    "Author": "Norman Cousins"
+  },
+  {
+    "Quote": "Seventy percent of success in life is showing up.",
+    "Author": "Woody Allen"
+  },
+  {
+    "Quote": "Seventy percent of success in life is showing up.",
+    "Author": "Woody Allen"
+  },
+  {
+    "Quote": "We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.",
+    "Author": "Orson Welles"
+  },
+  {
+    "Quote": "We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.",
+    "Author": "Orson Welles"
+  },
+  {
+    "Quote": "Great men are rarely isolated mountain peaks; they are the summits of ranges.",
+    "Author": "Thomas W. Higginson"
+  },
+  {
+    "Quote": "Space is the breath of art.",
+    "Author": "Frank Lloyd Wright"
+  },
+  {
+    "Quote": "When someone loves you, the way they talk about you is different. You feel safe and comfortable.",
+    "Author": "Jess C. Scott,  The Intern"
+  },
+  {
+    "Quote": "When someone loves you, the way they talk about you is different. You feel safe and comfortable.",
+    "Author": "Jess C. Scott,  The Intern"
+  },
+  {
+    "Quote": "When someone loves you, the way they talk about you is different. You feel safe and comfortable.",
+    "Author": "Jess C. Scott,  The Intern"
+  },
+  {
+    "Quote": "When someone loves you, the way they talk about you is different. You feel safe and comfortable.",
+    "Author": "Jess C. Scott,  The Intern"
+  },
+  {
+    "Quote": "When someone loves you, the way they talk about you is different. You feel safe and comfortable.",
+    "Author": "Jess C. Scott,  The Intern"
+  },
+  {
+    "Quote": "When someone loves you, the way they talk about you is different. You feel safe and comfortable.",
+    "Author": "Jess C. Scott,  The Intern"
+  },
+  {
+    "Quote": "When love and skill work together, expect a masterpiece.",
+    "Author": "John Ruskin"
+  },
+  {
+    "Quote": "When love and skill work together, expect a masterpiece.",
+    "Author": "John Ruskin"
+  },
+  {
+    "Quote": "Easter is meant to be a symbol of hope, renewal, and new life.",
+    "Author": "Janine di Giovanni"
+  },
+  {
+    "Quote": "Easter is meant to be a symbol of hope, renewal, and new life.",
+    "Author": "Janine di Giovanni"
+  },
+  {
+    "Quote": "To be able to look back upon one's past life with satisfaction is to live twice.",
+    "Author": "Lord Acton"
+  },
+  {
+    "Quote": "The course of true love never did run smooth.",
+    "Author": "William Shakespeare"
+  },
+  {
+    "Quote": "Humor is merely tragedy standing on its head with its pants torn.",
+    "Author": "Irvin S. Cobb"
+  },
+  {
+    "Quote": "Science fiction is any idea that occurs in the head and doesn't exist yet, but soon will, and will change everything for everybody, and nothing will ever be the same again. As soon as you have an idea that changes some small part of the world you are writing science fiction. It is always the art of the possible, never the impossible.",
+    "Author": "Ray Bradbury"
+  },
+  {
+    "Quote": "You don't have to be a genius or a visionary or even a college graduate to be successful. You just need a framework and a dream.",
+    "Author": "Michael Dell"
+  },
+  {
+    "Quote": "Outside of the cross of Jesus Christ, there is no hope in this world. That cross and resurrection at the core of the Gospel is the only hope for humanity. Wherever you go, ask God for wisdom on how to get that Gospel in, even in the toughest situations of life.",
+    "Author": "Ravi Zacharias"
+  },
+  {
+    "Quote": "Outside of the cross of Jesus Christ, there is no hope in this world. That cross and resurrection at the core of the Gospel is the only hope for humanity. Wherever you go, ask God for wisdom on how to get that Gospel in, even in the toughest situations of life.",
+    "Author": "Ravi Zacharias"
+  },
+  {
+    "Quote": "Any life is made up of a single moment, the moment in which a man finds out, once and for all, who he is.",
+    "Author": "Jorge Luis Borges"
+  },
+  {
+    "Quote": "Love is like a beautiful flower which I may not touch, but whose fragrance makes the garden a place of delight just the same.",
+    "Author": "Helen Keller"
+  },
+  {
+    "Quote": "Wit is the lowest form of humor.",
+    "Author": "Alexander Pope"
+  },
+  {
+    "Quote": "There is nothing in the world of art like the songs mother used to sing.",
+    "Author": "Billy Sunday"
+  },
+  {
+    "Quote": "Success isn't measured by money or power or social rank. Success is measured by your discipline and inner peace.",
+    "Author": "Mike Ditka"
+  },
+  {
+    "Quote": "Infuse your life with action. Don't wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth.",
+    "Author": "Bradley Whitford"
+  },
+  {
+    "Quote": "Infuse your life with action. Don't wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth.",
+    "Author": "Bradley Whitford"
+  },
+  {
+    "Quote": "Infuse your life with action. Don't wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth.",
+    "Author": "Bradley Whitford"
+  },
+  {
+    "Quote": "Wrong life cannot be lived rightly.",
+    "Author": "Theodor Adorno"
+  },
+  {
+    "Quote": "The most powerful weapon on earth is the human soul on fire.",
+    "Author": "Ferdinand Foch"
+  },
+  {
+    "Quote": "It is the ability to take a joke, not make one, that proves you have a sense of humor.",
+    "Author": "Max Eastman"
+  },
+  {
+    "Quote": "Every bit of me is devoted to love and art. And I aspire to try to be a teacher to my young fans who feel just like I felt when I was younger. I just felt like a freak. I guess what I'm trying to say is I'm trying to liberate them, I want to free them of their fears and make them feel that they can make their own space in the world.",
+    "Author": "Lady Gaga"
+  },
+  {
+    "Quote": "Every bit of me is devoted to love and art. And I aspire to try to be a teacher to my young fans who feel just like I felt when I was younger. I just felt like a freak. I guess what I'm trying to say is I'm trying to liberate them, I want to free them of their fears and make them feel that they can make their own space in the world.",
+    "Author": "Lady Gaga"
+  },
+  {
+    "Quote": "There is nothing better than a friend, unless it is a friend with chocolate.",
+    "Author": "Linda Grayson"
+  },
+  {
+    "Quote": "What's money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
+    "Author": "Bob Dylan"
+  },
+  {
+    "Quote": "It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.",
+    "Author": "Robert H. Schuller"
+  },
+  {
+    "Quote": "You have succeeded in life when all you really want is only what you really need.",
+    "Author": "Vernon Howard"
+  },
+  {
+    "Quote": "Love is when he gives you a piece of your soul, that you never knew was missing.",
+    "Author": "Torquato Tasso"
+  },
+  {
+    "Quote": "A humorist is a person who feels bad, but who feels good about it.",
+    "Author": "Don Herold"
+  },
+  {
+    "Quote": "The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "What a slut time is. She screws everybody.",
+    "Author": "John Green,  The Fault in Our Stars"
+  },
+  {
+    "Quote": "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.",
+    "Author": "John Lennon"
+  },
+  {
+    "Quote": "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.",
+    "Author": "John Lennon"
+  },
+  {
+    "Quote": "To be successful, you have to have your heart in your business and your business in your heart.",
+    "Author": "Thomas J. Watson"
+  },
+  {
+    "Quote": "He who has health, has hope; and he who has hope, has everything.",
+    "Author": "Thomas Carlyle"
+  },
+  {
+    "Quote": "The greatest trap in our life is not success, popularity or power, but self-rejection.",
+    "Author": "Henri Nouwen"
+  },
+  {
+    "Quote": "The greatest trap in our life is not success, popularity or power, but self-rejection.",
+    "Author": "Henri Nouwen"
+  },
+  {
+    "Quote": "We love life, not because we are used to living but because we are used to loving.",
+    "Author": "Friedrich Nietzsche"
+  },
+  {
+    "Quote": "We love life, not because we are used to living but because we are used to loving.",
+    "Author": "Friedrich Nietzsche"
+  },
+  {
+    "Quote": "Women, as they grow older, rely more and more on cosmetics. Men, as they grow older, rely more and more on a sense of humor.",
+    "Author": "George Jean Nathan"
+  },
+  {
+    "Quote": "I consider skateboarding an art form, a lifestyle and a sport. 'Action sport' would be the least offensive categorization.",
+    "Author": "Tony Hawk"
+  },
+  {
+    "Quote": "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.",
+    "Author": "Robert Kiyosaki"
+  },
+  {
+    "Quote": "All that I am, or hope to be, I owe to my angel mother.",
+    "Author": "Abraham Lincoln"
+  },
+  {
+    "Quote": "Character develops itself in the stream of life.",
+    "Author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "Quote": "Love and compassion are necessities, not luxuries. Without them humanity cannot survive.",
+    "Author": "Dalai Lama"
+  },
+  {
+    "Quote": "Humor is perhaps a sense of intellectual perspective: an awareness that some things are really important, others not; and that the two kinds are most oddly jumbled in everyday affairs.",
+    "Author": "Christopher Morley"
+  },
+  {
+    "Quote": "Tact is the art of making a point without making an enemy.",
+    "Author": "Isaac Newton"
+  },
+  {
+    "Quote": "If you want to be truly successful invest in yourself to get the knowledge you need to find your unique factor. When you find it and focus on it and persevere your success will blossom.",
+    "Author": "Sydney Madwed"
+  },
+  {
+    "Quote": "The great gift of Easter is hope - Christian hope which makes us have that confidence in God, in his ultimate triumph, and in his goodness and love, which nothing can shake.",
+    "Author": "Basil Hume"
+  },
+  {
+    "Quote": "The great gift of Easter is hope - Christian hope which makes us have that confidence in God, in his ultimate triumph, and in his goodness and love, which nothing can shake.",
+    "Author": "Basil Hume"
+  },
+  {
+    "Quote": "Life consists not in holding good cards but in playing those you hold well.",
+    "Author": "Josh Billings"
+  },
+  {
+    "Quote": "Love has reasons which reason cannot understand.",
+    "Author": "Blaise Pascal"
+  },
+  {
+    "Quote": "What a strange world this would be if we all had the same sense of humor.",
+    "Author": "Bernard Williams"
+  },
+  {
+    "Quote": "Where thou art, that is home.",
+    "Author": "Emily Dickinson"
+  },
+  {
+    "Quote": "Formal education will make you a living; self-education will make you a fortune.",
+    "Author": "Jim Rohn"
+  },
+  {
+    "Quote": "Formal education will make you a living; self-education will make you a fortune.",
+    "Author": "Jim Rohn"
+  },
+  {
+    "Quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+    "Author": "Helen Keller"
+  },
+  {
+    "Quote": "The greatest use of a life is to spend it on something that will outlast it.",
+    "Author": "William James"
+  },
+  {
+    "Quote": "Love is an irresistible desire to be irresistibly desired.",
+    "Author": "Robert Frost"
+  },
+  {
+    "Quote": "One can never speak enough of the virtues, the dangers, the power of shared laughter.",
+    "Author": "Francoise Sagan"
+  },
+  {
+    "Quote": "Filmmaking, like any other art, is a very profound means of human communication; beyond the professional pleasure of succeeding or the pain of failing, you do want your film to be seen, to communicate itself to other people.",
+    "Author": "Kenneth Lonergan"
+  },
+  {
+    "Quote": "Think twice before you speak, because your words and influence will plant the seed of either success or failure in the mind of another.",
+    "Author": "Napoleon Hill"
+  },
+  {
+    "Quote": "Black and white are the colors of photography. To me they symbolize the alternatives of hope and despair to which mankind is forever subjected.",
+    "Author": "Robert Frank"
+  },
+  {
+    "Quote": "Life is a succession of moments, to live each one is to succeed.",
+    "Author": "Corita Kent"
+  },
+  {
+    "Quote": "I love that feeling of being in love, the effect of having butterflies when you wake up in the morning. That is special.",
+    "Author": "Jennifer Aniston"
+  },
+  {
+    "Quote": "Wit is an explosion of the compound spirit.",
+    "Author": "Karl Wilhelm Friedrich Schlegel"
+  },
+  {
+    "Quote": "The art of simplicity is a puzzle of complexity.",
+    "Author": "Douglas Horton"
+  },
+  {
+    "Quote": "In order to attain the impossible, one must attempt the absurd.",
+    "Author": "Miguel de Cervantes"
+  },
+  {
+    "Quote": "A good teacher can inspire hope, ignite the imagination, and instill a love of learning.",
+    "Author": "Brad Henry"
+  },
+  {
+    "Quote": "A good teacher can inspire hope, ignite the imagination, and instill a love of learning.",
+    "Author": "Brad Henry"
+  },
+  {
+    "Quote": "Fortunately analysis is not the only way to resolve inner conflicts. Life itself still remains a very effective therapist.",
+    "Author": "Karen Horney"
+  },
+  {
+    "Quote": "Love is the flower you've got to let grow.",
+    "Author": "John Lennon"
+  },
+  {
+    "Quote": "This I conceive to be the chemical function of humor: to change the character of our thought.",
+    "Author": "Lin Yutang"
+  },
+  {
+    "Quote": "In art, the obvious is a sin.",
+    "Author": "Edward Dmytryk"
+  },
+  {
+    "Quote": "Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.",
+    "Author": "Ralph Waldo Emerson"
+  },
+  {
+    "Quote": "Success depends upon previous preparation, and without such preparation there is sure to be failure.",
+    "Author": "Confucius"
+  },
+  {
+    "Quote": "There was never a night or a problem that could defeat sunrise or hope.",
+    "Author": "Bernard Williams"
+  },
+  {
+    "Quote": "The chief danger in life is that you may take too many precautions.",
+    "Author": "Alfred Adler"
+  },
+  {
+    "Quote": "I believe that imagination is stronger than knowledge. That myth is more potent than history. That dreams are more powerful than facts. That hope always triumphs over experience. That laughter is the only cure for grief. And I believe that love is stronger than death.",
+    "Author": "Robert Fulghum"
+  },
+  {
+    "Quote": "I believe that imagination is stronger than knowledge. That myth is more potent than history. That dreams are more powerful than facts. That hope always triumphs over experience. That laughter is the only cure for grief. And I believe that love is stronger than death.",
+    "Author": "Robert Fulghum"
+  },
+  {
+    "Quote": "Laughter is involuntary. If it's funny you laugh.",
+    "Author": "Tom Lehrer"
+  },
+  {
+    "Quote": "The art of healing comes from nature, not from the physician. Therefore the physician must start from nature, with an open mind.",
+    "Author": "Paracelsus"
+  },
+  {
+    "Quote": "Success is finding satisfaction in giving a little more than you take.",
+    "Author": "Christopher Reeve"
+  },
+  {
+    "Quote": "You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.",
+    "Author": "Woodrow Wilson"
+  },
+  {
+    "Quote": "You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.",
+    "Author": "Woodrow Wilson"
+  },
+  {
+    "Quote": "It takes half your life before you discover life is a do-it-yourself project.",
+    "Author": "Napoleon Hill"
+  },
+  {
+    "Quote": "What force is more potent than love?",
+    "Author": "Igor Stravinsky"
+  },
+  {
+    "Quote": "The satirist shoots to kill while the humorist brings his prey back alive and eventually releases him again for another chance.",
+    "Author": "Peter De Vries"
+  },
+  {
+    "Quote": "Minimal art went nowhere.",
+    "Author": "Sol LeWitt"
+  },
+  {
+    "Quote": "The secrets of success are a good wife and a steady job. My wife told me.",
+    "Author": "Howard Nemerov"
+  },
+  {
+    "Quote": "Forgiving does not erase the bitter past. A healed memory is not a deleted memory. Instead, forgiving what we cannot forget creates a new way to remember. We change the memory of our past into a hope for our future.",
+    "Author": "Lewis B. Smedes"
+  },
+  {
+    "Quote": "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
+    "Author": "Wayne Dyer"
+  },
+  {
+    "Quote": "Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity.",
+    "Author": "Henry Van Dyke"
+  },
+  {
+    "Quote": "A sense of humor is the ability to understand a joke - and that the joke is oneself.",
+    "Author": "Clifton Fadiman"
+  },
+  {
+    "Quote": "Perhaps it's good for one to suffer. Can an artist do anything if he's happy? Would he ever want to do anything? What is art, after all, but a protest against the horrible inclemency of life?",
+    "Author": "Aldous Huxley"
+  },
+  {
+    "Quote": "Perhaps it's good for one to suffer. Can an artist do anything if he's happy? Would he ever want to do anything? What is art, after all, but a protest against the horrible inclemency of life?",
+    "Author": "Aldous Huxley"
+  },
+  {
+    "Quote": "Frustration, although quite painful at times, is a very positive and essential part of success.",
+    "Author": "Bo Bennett"
+  },
+  {
+    "Quote": "Where there is no vision, there is no hope.",
+    "Author": "George Washington Carver"
+  },
+  {
+    "Quote": "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
+    "Author": "Oscar Wilde"
+  },
+  {
+    "Quote": "If you can learn to love yourself and all the flaws, you can love other people so much better. And that makes you so happy.",
+    "Author": "Kristin Chenoweth"
+  },
+  {
+    "Quote": "Puns are a form of humor with words.",
+    "Author": "Guillermo Cabrera Infante"
+  },
+  {
+    "Quote": "I think you can do anything with comics that you could do in just about any art form.",
+    "Author": "Harvey Pekar"
+  },
+  {
+    "Quote": "Formula for success: rise early, work hard, strike oil.",
+    "Author": "J. Paul Getty"
+  },
+  {
+    "Quote": "A leader is a dealer in hope.",
+    "Author": "Napoleon Bonaparte"
+  },
+  {
+    "Quote": "Life must be lived as play.",
+    "Author": "Plato"
+  },
+  {
+    "Quote": "Love is a force more formidable than any other. It is invisible - it cannot be seen or measured, yet it is powerful enough to transform you in a moment, and offer you more joy than any material possession could.",
+    "Author": "Barbara de Angelis"
+  },
+  {
+    "Quote": "There is no defense against adverse fortune which is so effectual as an habitual sense of humor.",
+    "Author": "Thomas W. Higginson"
+  },
+  {
+    "Quote": "When the bright angel dominates, out comes a great work of art, a Michelangelo David or a Beethoven symphony.",
+    "Author": "Madeleine L'Engle"
+  },
+  {
+    "Quote": "There is nothing to writing. All you do is sit down at a typewriter and bleed.",
+    "Author": "Ernest Hemingway"
+  },
+  {
+    "Quote": "If you want to achieve things in life, you've just got to do them, and if you're talented and smart, you'll succeed.",
+    "Author": "Juliana Hatfield"
+  },
+  {
+    "Quote": "If you want to achieve things in life, you've just got to do them, and if you're talented and smart, you'll succeed.",
+    "Author": "Juliana Hatfield"
+  },
+  {
+    "Quote": "Imagine all the people living life in peace. You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us, and the world will be as one.",
+    "Author": "John Lennon"
+  },
+  {
+    "Quote": "Imagine all the people living life in peace. You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us, and the world will be as one.",
+    "Author": "John Lennon"
+  },
+  {
+    "Quote": "We live in the world when we love it.",
+    "Author": "Rabindranath Tagore"
+  },
+  {
+    "Quote": "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+    "Author": "Buddha"
+  },
+  {
+    "Quote": "All art constantly aspires towards the condition of music.",
+    "Author": "Walter Pater"
+  },
+  {
+    "Quote": "The marks humans leave are too often scars.",
+    "Author": "John Green,  The Fault in Our Stars"
+  },
+  {
+    "Quote": "The question isn't who is going to let me; it's who is going to stop me.",
+    "Author": "Ayn Rand"
+  },
+  {
+    "Quote": "The greatest sign of success for a teacher... is to be able to say, 'The children are now working as if I did not exist.'",
+    "Author": "Maria Montessori"
+  },
+  {
+    "Quote": "Pakistan not only means freedom and independence but the Muslim Ideology which has to be preserved, which has come to us as a precious gift and treasure and which, we hope other will share with us.",
+    "Author": "Muhammad Ali Jinnah"
+  },
+  {
+    "Quote": "The man who has no inner-life is a slave to his surroundings.",
+    "Author": "Henri Frederic Amiel"
+  },
+  {
+    "Quote": "Love is a smoke made with the fume of sighs.",
+    "Author": "William Shakespeare"
+  },
+  {
+    "Quote": "You can't be funny if you don't have good material.",
+    "Author": "Matt LeBlanc"
+  },
+  {
+    "Quote": "I am my own experiment. I am my own work of art.",
+    "Author": "Madonna Ciccone"
+  },
+  {
+    "Quote": "Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.",
+    "Author": "John Wooden"
+  },
+  {
+    "Quote": "I hope everyone that is reading this is having a really good day. And if you are not, just know that in every new minute that passes you have an opportunity to change that.",
+    "Author": "Gillian Anderson"
+  },
+  {
+    "Quote": "It is often said that before you die your life passes before your eyes. It is in fact true. It's called living.",
+    "Author": "Terry Pratchett"
+  },
+  {
+    "Quote": "'Tis better to have loved and lost than never to have loved at all.",
+    "Author": "Alfred Lord Tennyson"
+  },
+  {
+    "Quote": "Our humor turns our anger into a fine art.",
+    "Author": "Mary Kay Blakely"
+  },
+  {
+    "Quote": "I am a real person that cares about his art and cares about what he's doing - I have a heart and a soul and want to touch people and give.",
+    "Author": "LL Cool J"
+  },
+  {
+    "Quote": "Coming together is a beginning; keeping together is progress; working together is success.",
+    "Author": "Henry Ford"
+  },
+  {
+    "Quote": "But what we call our despair is often only the painful eagerness of unfed hope.",
+    "Author": "George Eliot"
+  },
+  {
+    "Quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+    "Author": "Lao Tzu"
+  },
+  {
+    "Quote": "Even a true artist does not always produce art.",
+    "Author": "Carroll O'Connor"
+  },
+  {
+    "Quote": "It doesn't take many people to have a bad sense of humor to get in trouble at a corporation.",
+    "Author": "Scott Adams"
+  },
+  {
+    "Quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "Author": "Winston Churchill"
+  },
+  {
+    "Quote": "Hope is the feeling we have that the feeling we have is not permanent.",
+    "Author": "Mignon McLaughlin"
+  },
+  {
+    "Quote": "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+    "Author": "Yoko Ono"
+  },
+  {
+    "Quote": "Every artist writes his own autobiography.",
+    "Author": "Havelock Ellis"
+  },
+  {
+    "Quote": "I've got a great sense of humor.",
+    "Author": "Anthony Hopkins"
+  },
+  {
+    "Quote": "I consider myself Istanbul's storyteller. My subject matter is my town. I consider it my job to explore the hidden patterns of my city's clandestine corners, its shady, mysterious places, the things I love.",
+    "Author": "Orhan Pamuk"
+  },
+  {
+    "Quote": "I have never let my schooling interfere with my education.",
+    "Author": "Mark Twain"
+  },
+  {
+    "Quote": "The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.",
+    "Author": "Vince Lombardi"
+  },
+  {
+    "Quote": "The future is not Big Government. Self-serving politicians. Powerful bureaucrats. This has been tried, tested throughout history. The result has always been disaster. President Obama, your agenda is not new. It's not change, and it's not hope.",
+    "Author": "Rush Limbaugh"
+  },
+  {
+    "Quote": "There is no end to education. It is not that you read a book, pass an examination, and finish with education. The whole of life, from the moment you are born to the moment you die, is a process of learning.",
+    "Author": "Jiddu Krishnamurti"
+  },
+  {
+    "Quote": "When I am finishing a picture, I hold some God-made object up to it - a rock, a flower, the branch of a tree or my hand - as a final test. If the painting stands up beside a thing man cannot make, the painting is authentic. If there's a clash between the two, it's bad art.",
+    "Author": "Marc Chagall"
+  },
+  {
+    "Quote": "I think in my case, I had no choice but to have a good sense of humor. I grew up with my dad, Danny Thomas, and George Burns and Bob Hope and Milton Berle and Sid Caesar and all those guys were at our house all the time and telling jokes and making each other laugh.",
+    "Author": "Marlo Thomas"
+  },
+  {
+    "Quote": "That's my actual payment, the fact that I can actually make something that I actually enjoy and put on repeat, and it's not related to anything else or anyone else's thoughts and ideas, it all came from me; I just love that aspect of it.",
+    "Author": "Akon"
+  },
+  {
+    "Quote": "Success is simple. Do what's right, the right way, at the right time.",
+    "Author": "Arnold H. Glasow"
+  },
+  {
+    "Quote": "We would not be interested in human beings if we did not have the hope of someday meeting someone worse off than ourselves.",
+    "Author": "Emile M. Cioran"
+  },
+  {
+    "Quote": "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again.",
+    "Author": "Og Mandino"
+  },
+  {
+    "Quote": "Draw your pleasure, paint your pleasure, and express your pleasure strongly.",
+    "Author": "Pierre Bonnard"
+  },
+  {
+    "Quote": "Down the road, I'll probably have a kid or two or three. And there will probably be political events or spiritual things to comment on, and humor.",
+    "Author": "Alanis Morissette"
+  },
+  {
+    "Quote": "Write what you love. Love will hold you through the hard times and hold the world during the good times.",
+    "Author": "Mark Z. Danielewski"
+  },
+  {
+    "Quote": "Not all those who wander are lost.",
+    "Author": "J.R.R. Tolkien,  The Fellowship of the Ring"
+  },
+  {
+    "Quote": "The starting point of all achievement is desire.",
+    "Author": "Napoleon Hill"
+  },
+  {
+    "Quote": "I hope people start to look at their lives as the most powerful, creative act they will ever offer this world.",
+    "Author": "Tom Shadyac"
+  },
+  {
+    "Quote": "Never stop fighting until you arrive at your destined place - that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have perseverance to realise the great life.",
+    "Author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "Quote": "A great artist can paint a great picture on a small canvas.",
+    "Author": "Charles Dudley Warner"
+  },
+  {
+    "Quote": "You've got to have a sense of humor to keep your sanity.",
+    "Author": "Lance Bass"
+  },
+  {
+    "Quote": "You are ugly when you love her, you are beautiful and fresh, vital and free, modern and poetic when you don't... you are more beautiful as an orphan than as your mother's son.",
+    "Author": "Witold Gombrowicz"
+  },
+  {
+    "Quote": "Books are the ultimate Dumpees: put them down and they\u2019ll wait for you forever; pay attention to them and they always love you back.",
+    "Author": "John Green,  An Abundance of Katherines"
+  },
+  {
+    "Quote": "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.",
+    "Author": "Bruce Lee"
+  },
+  {
+    "Quote": "She gave up beauty in her tender youth, gave all her hope and joy and pleasant ways; she covered up her eyes lest they should gaze on vanity, and chose the bitter truth.",
+    "Author": "Christina Rossetti"
+  },
+  {
+    "Quote": "He who is not courageous enough to take risks will accomplish nothing in life.",
+    "Author": "Muhammad Ali"
+  },
+  {
+    "Quote": "That's the motivation of an artist - to seek attention of some kind.",
+    "Author": "James Taylor"
+  },
+  {
+    "Quote": "I never write anything without humor, just because I like humor, but at the same time, it is a way for anything fantastical to become relatable.",
+    "Author": "Joss Whedon"
+  },
+  {
+    "Quote": "I'm very girly. I love to talk about diets, exercise, kids, make-up.",
+    "Author": "Rachel Hunter"
+  },
+  {
+    "Quote": "So it's not gonna be easy. It's going to be really hard; we're gonna have to work at this everyday, but I want to do that because I want you. I want all of you, forever, everyday. You and me... everyday.",
+    "Author": "Nicholas Sparks,  The Notebook"
+  },
+  {
+    "Quote": "Don't aim for success if you want it; just do what you love and believe in, and it will come naturally.",
+    "Author": "David Frost"
+  },
+  {
+    "Quote": "Don't aim for success if you want it; just do what you love and believe in, and it will come naturally.",
+    "Author": "David Frost"
+  },
+  {
+    "Quote": "A lot of people, to attack an outspoken atheist, one of the things they'll do is say, 'You are as bad as the fundamentalist Christians.' And my answer is always, 'I hope so.'",
+    "Author": "Penn Jillette"
+  },
+  {
+    "Quote": "Gratitude unlocks the fullness of life. It turns what we have into enough, and more. It turns denial into acceptance, chaos to order, confusion to clarity. It can turn a meal into a feast, a house into a home, a stranger into a friend.",
+    "Author": "Melody Beattie"
+  },
+  {
+    "Quote": "Every other artist begins with a blank canvas, a piece of paper the photographer begins with the finished product.",
+    "Author": "Edward Steichen"
+  },
+  {
+    "Quote": "It's always amazed me how little attention philosophers, psychologists, or anyone else actually has paid to humor.",
+    "Author": "Edward de Bono"
+  },
+  {
+    "Quote": "Love is a fire. But whether it is going to warm your hearth or burn down your house, you can never tell.",
+    "Author": "Joan Crawford"
+  },
+  {
+    "Quote": "It takes courage to grow up and become who you really are.",
+    "Author": "E.E. Cummings"
+  },
+  {
+    "Quote": "Success consists of going from failure to failure without loss of enthusiasm.",
+    "Author": "Winston Churchill"
+  },
+  {
+    "Quote": "You want to play another kind of character in another genre, and it's been something I've been trying to do if I can in the career so far, and it's something I hope to continue because it's interesting to me and you get to do different things as an actor.",
+    "Author": "Keanu Reeves"
+  },
+  {
+    "Quote": "Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.",
+    "Author": "Langston Hughes"
+  },
+  {
+    "Quote": "Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.",
+    "Author": "Langston Hughes"
+  },
+  {
+    "Quote": "My attitude towards drawing is not necessarily about drawing. It's about making the best kind of image I can make, it's about talking as clearly as I can.",
+    "Author": "Jim Dine"
+  },
+  {
+    "Quote": "Humor expands our limited picture frame and gets us to see more than just our problem.",
+    "Author": "Allen Klein"
+  },
+  {
+    "Quote": "And I ask why am I black, they say I was born in sin, and shamed inequity. One of the main songs we used to sing in church makes me sick, 'love wash me and I shall be whiter than snow.",
+    "Author": "Peter Tosh"
+  },
+  {
+    "Quote": "Success is nothing more than a few simple disciplines, practiced every day.",
+    "Author": "Jim Rohn"
+  },
+  {
+    "Quote": "Very much, string theory is simply a work in progress. What we are inching toward every day are predictions that within the realm of current technology we hope to test. It's not like we're working on a theory that is permanently beyond experiment. That would be philosophy.",
+    "Author": "Brian Greene"
+  },
+  {
+    "Quote": "Earth teach me to forget myself as melted snow forgets its life. Earth teach me resignation as the leaves which die in the fall. Earth teach me courage as the tree which stands all alone. Earth teach me regeneration as the seed which rises in the spring.",
+    "Author": "William Alexander"
+  },
+  {
+    "Quote": "Where the spirit does not work with the hand, there is no art.",
+    "Author": "Leonardo da Vinci"
+  },
+  {
+    "Quote": "If you look at terrorists, they really have no sense of humor.",
+    "Author": "Al Franken"
+  },
+  {
+    "Quote": "I accepted the face that as much as I want to lead others, and love to be around other people, in some essential way, I am something of a loner.",
+    "Author": "Arthur Ashe"
+  },
+  {
+    "Quote": "Try not to become a man of success, but rather try to become a man of value.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "I'm involved in quite a few ministries as a bridge builder, trying to match generous givers and donors to other ministries. Based on my past, I'm also involved in mainly the prison ministry. I go to jails and prisons and share my story, trying to give them some hope.",
+    "Author": "Lex Luger"
+  },
+  {
+    "Quote": "Without music, life would be a mistake.",
+    "Author": "Friedrich Nietzsche"
+  },
+  {
+    "Quote": "Art is the only way to run away without leaving home.",
+    "Author": "Twyla Tharp"
+  },
+  {
+    "Quote": "My sense of humor is a turkey, and I pull it out of the oven and baste it in reality.",
+    "Author": "Tracy Morgan"
+  },
+  {
+    "Quote": "As love without esteem is capricious and volatile; esteem without love is languid and cold.",
+    "Author": "Jonathan Swift"
+  },
+  {
+    "Quote": "Do not pity the dead, Harry. Pity the living, and, above all those who live without love.",
+    "Author": "J.K. Rowling,  Harry Potter and the Deathly Hallows"
+  },
+  {
+    "Quote": "To die will be an awfully big adventure.",
+    "Author": "J.M. Barrie,  Peter Pan"
+  },
+  {
+    "Quote": "Desire is the key to motivation, but it's determination and commitment to an unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek.",
+    "Author": "Mario Andretti"
+  },
+  {
+    "Quote": "Desire is the key to motivation, but it's determination and commitment to an unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek.",
+    "Author": "Mario Andretti"
+  },
+  {
+    "Quote": "I have learned from my experiences in this industry that there is absolutely no way to control people's opinions on your performance in your movie. You go out there, promote your film and hope people like the work you did.",
+    "Author": "Leonardo DiCaprio"
+  },
+  {
+    "Quote": "The bird is powered by its own life and by its motivation.",
+    "Author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "Quote": "The bird is powered by its own life and by its motivation.",
+    "Author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "Quote": "The bird is powered by its own life and by its motivation.",
+    "Author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "Quote": "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
+    "Author": "Henry Ward Beecher"
+  },
+  {
+    "Quote": "There's plenty of room for humor in politics, God knows, but it's a serious business.",
+    "Author": "Al Franken"
+  },
+  {
+    "Quote": "Nashville is my home, and the reason why I get to do what I love.",
+    "Author": "Taylor Swift"
+  },
+  {
+    "Quote": "Anyone who has never made a mistake has never tried anything new.",
+    "Author": "Albert Einstein"
+  },
+  {
+    "Quote": "Action is the foundational key to all success.",
+    "Author": "Pablo Picasso"
+  },
+  {
+    "Quote": "I'm quite a confident person in many ways, but there's only so much you can hear about being compared to Hattie Jacques. For the record, she was a comedy goddess, but she was 25 stone. I hope I'm right in saying I'm not in any way nearly 25 stone.",
+    "Author": "Miranda Hart"
+  },
+  {
+    "Quote": "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.",
+    "Author": "Mark Twain"
+  },
+  {
+    "Quote": "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.",
+    "Author": "Mark Twain"
+  },
+  {
+    "Quote": "A picture is a poem without words.",
+    "Author": "Horace"
+  },
+  {
+    "Quote": "If the blood humor is too strong and robust, calm it with balance and harmony.",
+    "Author": "Xun Zi"
+  },
+  {
+    "Quote": "Love is so unconditional; love liberates; love is the reason why I do what I do, and so I think it is the greatest gift we have.",
+    "Author": "BeBe Winans"
+  },
+  {
+    "Quote": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.",
+    "Author": "David Brinkley"
+  },
+  {
+    "Quote": "Sixty-four thousand dollars for a question, I hope they are asking you the meaning of life.",
+    "Author": "Paul Scofield"
+  },
+  {
+    "Quote": "Just as treasures are uncovered from the earth, so virtue appears from good deeds, and wisdom appears from a pure and peaceful mind. To walk safely through the maze of human life, one needs the light of wisdom and the guidance of virtue.",
+    "Author": "Buddha"
+  },
+  {
+    "Quote": "I have no fear of making changes, destroying the image, etc., because the painting has a life of its own.",
+    "Author": "Jackson Pollock"
+  },
+  {
+    "Quote": "Humor's a weapon if you want to make it one.",
+    "Author": "Bob Newhart"
+  },
+  {
+    "Quote": "The measure of a man is not how great his faith is, but how great his love is. We must not let government programs disconnect our souls from each other.",
+    "Author": "J. C. Watts"
+  },
+  {
+    "Quote": "I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.",
+    "Author": "Jimi Hendrix,  Jimi Hendrix - Axis: Bold as Love"
+  },
+  {
+    "Quote": "I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.",
+    "Author": "Jimi Hendrix,  Jimi Hendrix - Axis: Bold as Love"
+  },
+  {
+    "Quote": "Winning isn't everything, it's the only thing.",
+    "Author": "Vince Lombardi"
+  },
+  {
+    "Quote": "I try to make a dent in people when I can. I figure people drift toward liberalism at a young age, and I always hope that they change when they see how the world really is.",
+    "Author": "Johnny Ramone"
+  },
+  {
+    "Quote": "The Christian life is not a constant high. I have my moments of deep discouragement. I have to go to God in prayer with tears in my eyes, and say, 'O God, forgive me,' or 'Help me.'",
+    "Author": "Billy Graham"
+  },
+  {
+    "Quote": "To me, photography is the simultaneous recognition, in a fraction of a second, of the significance of an event.",
+    "Author": "Henri Cartier-Bresson"
+  },
+  {
+    "Quote": "What you see on stage is pretty much the way I am... a dry sense of humor.",
+    "Author": "Bob Newhart"
+  },
+  {
+    "Quote": "I love you, and because I love you, I would sooner have you hate me for telling you the truth than adore me for telling you lies.",
+    "Author": "Pietro Aretino"
+  },
+  {
+    "Quote": "\u2032Classic\u2032 - a book which people praise and don't read.",
+    "Author": "Mark Twain"
+  },
+  {
+    "Quote": "Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+    "Author": "Swami Vivekananda"
+  },
+  {
+    "Quote": "Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+    "Author": "Swami Vivekananda"
+  },
+  {
+    "Quote": "I hope I can help guys come out and say, 'All right, dude, I got a manicure... and I liked it.'",
+    "Author": "Ryan Seacrest"
+  },
+  {
+    "Quote": "Transformation is a process, and as life happens there are tons of ups and downs. It's a journey of discovery - there are moments on mountaintops and moments in deep valleys of despair.",
+    "Author": "Rick Warren"
+  },
+  {
+    "Quote": "Every picture shows a spot with which the artist has fallen in love.",
+    "Author": "Alfred Sisley"
+  },
+  {
+    "Quote": "You know, Freud accepted his lot very stoically and very well and with a sense of humor. He aged and died gracefully, and there's a lot to be said for that.",
+    "Author": "Viggo Mortensen"
+  },
+  {
+    "Quote": "Wisdom begins in wonder.",
+    "Author": "Socrates"
+  }
+=======
+   {
+      "Quote":"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "Author":"Martin Fowler"
+   },
+   {
+      "Quote":"Don't cry because it's over, smile because it happened.",
+      "Author":"Dr. Seuss"
+   },
+   
+   {
+      "Quote":"A person who is happy is not because everything is right in his life, he is happy because of his attitude towards everything in his life is right.",
+      "Author":"Sundar Pichai"
+   },
    {
       "Quote":"Don't cry because it's over, smile because it happened.",
       "Author":"Dr. Seuss"
@@ -514,6 +2532,10 @@
    {
       "Quote":"I am nothing special, of this I am sure. I am a common man with common thoughts and I've led a common life. There are no monuments dedicated to me and my name will soon be forgotten, but I've loved another with all my heart and soul, and to me, this has always been enough..",
       "Author":"Nicholas Sparks,  The Notebook"
+   },
+   {
+      "Quote":"I am the greatest, I said that even before I knew I was.",
+      "Author":"Muhammad Ali"
    },
    {
       "Quote":"If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.",
@@ -1998,5 +4020,97 @@
    {
       "Quote":"You know, Freud accepted his lot very stoically and very well and with a sense of humor. He aged and died gracefully, and there's a lot to be said for that.",
       "Author":"Viggo Mortensen"
+   },
+   {
+      "Quote": "If all you have is a hammer, everything looks like a nail",
+      "Author": "Abraham Maslow"
+   },
+   {
+      "Quote": "If I have seen further it is only by standing on the shoulders of giants.",
+      "Author": "Isaac Newton"
+   },
+  {
+      "Quote":"The question isn’t who is going to let me; it’s who is going to stop me.",
+      "Author":"Vladimir Putin"
+   },
+  {
+      "Quote": "A man is but a product of his thoughts. What he thinks he becomes.",
+      "Author": "Mahatma Gandhi"
+   },
+   {
+      "Quote": "Happiness is when what you think, what you say, and what you do are in harmony.",
+      "Author": "Mahatma Gandhi"
+   },
+   {
+      "Quote":"The difference between stupidity and genius is that genius has its limits.",
+      "Author":"Albert Einstein"
+   },
+  {
+      "Quote":"An eye for eye only ends up making the whole world blind.",
+      "Author":"Mahatma Gandhi"
+   },
+   {
+      "Quote":"Time is an illusion. Lunchtime doubly so.",
+      "Author":"Douglas Adams"
+   },
+   {
+      "Quote":"Try to be a rainbow in someones cloud.",
+      "Author":"Maya Angelou"
+   },
+   {
+      "Quote":"The things that we love tell us what we are.",
+      "Author":"Thomas Aquinas"
+   },
+   {
+      "Quote":"I don't know what love means. But for what it's worth, when i hear the word, I think of you",
+      "Author":"Blake Auden"
+   },
+   {
+      "Quote":"Failure only happens when we give up",
+      "Author":"Bacharuddin Jusuf Habibie"
+   },
+   {
+      "Quote":"I'm not afraid of storms, for Im learning how to sail my ship.",
+      "Author":"Louisa May Alcott"
+   },
+   {
+      "Quote":"Friendship at first sight, like love at first sight, is said to be the only truth.",
+      "Author":"Herman Melville"
+   },
+   {
+      "Quote":"Stay hungry,Stay foolish.",
+      "Author":"Steve jobs"
+   },
+   {
+      "Quote":"Design is not just what it looks like and feels like. Design is how it works.",
+      "Author":"Steve jobs"
+   },
+   {
+      "Quote":"No matter what profession you are into, always give your 100% commitment to your work. Because it’s not always about winning the game! It’s about the work satisfaction in the end.",
+      "Author":"M.S. Dhoni"
+   },
+   {
+      "Quote":"A dream is not that which you see while sleeping, it is something that does not let you sleep.",
+      "Author" : "A. P. J. Abdul Kalam"
+   },
+   {
+      "Quote":"Since we live in an age of innovation, a practical education must prepare a man for work that does not yet exist and cannot yet be clearly defined.",
+      "Author":" Peter F. Drucker"
+   },
+   {
+      "Quote":"It is not until you change your identity to match your life blueprint that you will understand why everything in the past never worked.",
+      "Author":"Shannon L. Alder"
+   },
+   {
+      "Quote": "All dreams can come true, if we have the courage to pursue them.",
+      "Author": "Walt Disney"
+   },
+   {
+      "Quote": "The secret of getting ahead is getting started.",
+      "Author": "Mark Twain"
+   },
+   {
+      "Quote": "Only the paranoid survive.",
+      "Author": "Andy Grove"
    }
 ]
