@@ -40,6 +40,14 @@
     "answer": "Wind"
   },
   {
+    "riddle": "What has to be broken before you can use it?",
+    "answer": "Egg"
+  },
+  {
+    "riddle": "What is always in front of you but can’t be seen?",
+    "answer": "The future"
+  },
+  {
     "riddle": "It goes up and down the stairs without moving.",
     "answer": "Carpet"
   },
@@ -48,7 +56,6 @@
     "answer": "Darkness"
   },
   {
-
     "riddle": "A doctor and a bus driver are both in love with the same woman, an attractive girl named Sarah. The bus driver had to go on a long bus trip that would last a week. Before he left, he gave Sarah seven apples. Why?",
     "answer": "An apple a day keeps the doctor away!"
   },
@@ -200,4 +207,4 @@
     "riddle": "What is so fragile that saying its name breaks it?",
     "answer": "Silence"
   }
-  }
+]
