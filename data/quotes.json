@@ -1,5 +1,18 @@
 [
    {
+      "Quote":"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "Author":"Martin Fowler"
+   },
+   {
+      "Quote":"Don't cry because it's over, smile because it happened.",
+      "Author":"Dr. Seuss"
+   },
+   
+   {
+      "Quote":"A person who is happy is not because everything is right in his life, he is happy because of his attitude towards everything in his life is right.",
+      "Author":"Sundar Pichai"
+   },
+   {
       "Quote":"Don't cry because it's over, smile because it happened.",
       "Author":"Dr. Seuss"
    },
@@ -1998,5 +2011,65 @@
    {
       "Quote":"You know, Freud accepted his lot very stoically and very well and with a sense of humor. He aged and died gracefully, and there's a lot to be said for that.",
       "Author":"Viggo Mortensen"
+   },
+   {
+      "Quote":"Try to be a rainbow in someones cloud.",
+      "Author":"Maya Angelou"
+   },
+   {
+      "Quote":"The things that we love tell us what we are.",
+      "Author":"Thomas Aquinas"
+   },
+   {
+      "Quote":"I don't know what love means. But for what it's worth, when i hear the word, I think of you",
+      "Author":"Blake Auden"
+   },
+   {
+      "Quote":"Failure only happens when we give up",
+      "Author":"Bacharuddin Jusuf Habibie"
+   },
+   {
+      "Quote":"I'm not afraid of storms, for Im learning how to sail my ship.",
+      "Author":"Louisa May Alcott"
+   },
+   {
+      "Quote":"Friendship at first sight, like love at first sight, is said to be the only truth.",
+      "Author":"Herman Melville"
+   },
+   {
+      "Quote":"Stay hungry,Stay foolish.",
+      "Author":"Steve jobs"
+   },
+   {
+      "Quote":"Design is not just what it looks like and feels like. Design is how it works.",
+      "Author":"Steve jobs"
+   },
+   {
+      "Quote":"No matter what profession you are into, always give your 100% commitment to your work. Because it’s not always about winning the game! It’s about the work satisfaction in the end.",
+      "Author":"M.S. Dhoni"
+   },
+   {
+      "Quote":"A dream is not that which you see while sleeping, it is something that does not let you sleep.",
+      "Author" : "A. P. J. Abdul Kalam"
+   },
+   {
+      "Quote":"Since we live in an age of innovation, a practical education must prepare a man for work that does not yet exist and cannot yet be clearly defined.",
+      "Author":" Peter F. Drucker"
+   },
+   {
+      "Quote":"It is not until you change your identity to match your life blueprint that you will understand why everything in the past never worked.",
+      "Author":"Shannon L. Alder"
+   },
+   {
+      "Quote": "All dreams can come true, if we have the courage to pursue them.",
+      "Author": "Walt Disney"
+   },
+   {
+      "Quote": "The secret of getting ahead is getting started.",
+      "Author": "Mark Twain"
+   },
+   {
+      "Quote": "Only the paranoid survive.",
+      "Author": "Andy Grove"
    }
 ]
