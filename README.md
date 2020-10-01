@@ -47,6 +47,19 @@ console.log(all.getRandomRiddle());
 }
 ```
 
+### Want to search? 
+Currently only Jokes and Quotes are able to be searched by either Author or Caterogry respectfully.
+
+- [ ] <b><i>getRandomQuote('Jimmy')</i></b> returns an object containing all quotes with the author 'Jummy'<br>
+
+- [ ] <b><i>getRandomJoke('Men')</i></b> returns an object containing all jokes under the category 'Men'<br>
+
+You can also search by many using an object
+
+- [ ] <b><i>getRandomQuote(['Marilyn Monroe', 'Oscar Wilde'])</i></b> returns an object containing all quotes with the Authors 'Marilyn Monroe' and 'Oscar Wilde' <br>
+
+- [ ] <b><i>getRandomJoke(['Food Jokes', 'Men'])</i></b> returns an object containing all jokes under the categorys 'Food Jokes' and 'Men'<br>
+
 ## Want to contribute?
 
 >  Please find issues [here](https://github.com/NITJSR-OSS/EverydayFun/issues).
