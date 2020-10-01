@@ -1,5 +1,9 @@
 [
   {
+    "riddle": "Thirty white horses on a red hill, First they champ, Then they stamp, Then they stand still. ",
+    "answer": "Teeth"
+  },
+  {
     "riddle": "This thing all things devours: Birds, beasts, trees, flowers; Gnaws iron, bites steel; Grinds hard stones to meal; Slays king, ruins town, And beats high mountain down",
     "answer": "Time"
   },
@@ -50,5 +54,26 @@
   {
     "riddle": "What has legs, but does not walk?",
     "answer": "Table"
+  },
+  {
+    "riddle": "What has a head, a tail, is brown, and has no legs?",
+    "answer": "A Penny"
+  },
+  {
+    "riddle": "What room do ghosts avoid?",
+    "answer": "The living room."
+  },
+  {
+    "riddle": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+    "answer": "The letter 'm'."
+  },
+  {
+    "riddle": "A box without hinges, lock or key, yet golden treasure lies within.",
+    "answer": "An egg"
+  },
+  {
+    "riddle": "I follow you all the time and copy your every move, but you can’t touch me or catch me. What am I?",
+    "answer": "Your shadow"
   }
+  
 ]
