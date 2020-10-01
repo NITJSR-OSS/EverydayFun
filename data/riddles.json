@@ -230,5 +230,17 @@
   {
     "riddle": "The more you take, the more you leave behind. What am I?",
     "answer": "Footsteps"
+  },
+  {
+    "riddle": "I am an odd number. Take away a letter and I become even. What number am I?",
+    "answer": "Seven"
+  },
+  {
+    "riddle": "I'm tall when I'm young and I'm short when I'm old. What am I?",
+    "answer": "A Candle"
+  },
+  {
+    "riddle": "You can drop me from the tallest building and I'll be fine, but if you drop me in water I die. What am I?",
+    "answer": "Paper"
   }
 ]
