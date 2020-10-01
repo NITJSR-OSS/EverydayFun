@@ -6,26 +6,31 @@ function getRandomItem(items) {
   return items[Math.floor(Math.random() * items.length)];
 }
 
-function getRandomQuote(author) {
-  if(author) {
-    list = [];
-    if(typeof author === 'string') {
-      quotes.forEach(function(item) {
-        if(item.Author === author) {
-          list.push(item);
+function searchArray(items, element, criteria) {
+  let list = [];
+
+  if(typeof criteria === 'string') {
+    items.forEach(function(item) {
+      if(item[element] === criteria) {
+        list.push(item); 
+      }
+    })
+  } else if (typeof criteria === 'object') {
+    criteria.forEach(function(cri) {
+      items.forEach(function(item) {
+        if(item[element] === cri) {
+          list.push(item); 
         }
       })
-    } else if (typeof author === 'object') {
-      author.forEach(function(auth) {
-        quotes.forEach(function(item) {
-          if(item.Author === auth) {
-            list.push(item);
-          }
-        })
-      })
-    }
+    })
+  }
 
-    return list;
+  return list;
+}
+
+function getRandomQuote(author) {
+  if(author) {
+    return searchArray(quotes, 'author', author)
   } else {
     return getRandomItem(quotes);
   }
@@ -33,24 +38,7 @@ function getRandomQuote(author) {
 
 function getRandomJoke(category) {
   if(category) {
-    list = [];
-    if(typeof category === 'string') {
-      jokes.forEach(function(item) {
-        if(item.category === category) {
-          list.push(item);
-        }
-      })
-    } else if (typeof category === 'object') {
-      category.forEach(function(cat) {
-        jokes.forEach(function(item) {
-          if(item.category === cat) {
-            list.push(item);
-          }
-        })
-      })
-    }
-
-    return list;
+    return searchArray(jokes, 'category', category)
   } else {
     return getRandomItem(jokes);
   }
