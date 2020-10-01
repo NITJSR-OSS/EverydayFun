@@ -28,8 +28,8 @@ console.log(all.getRandomRiddle());
 - [ ] <b><i>getRandomQuote()</i></b> returns an object containing quote and author -<br>
 ```json
 {
-      "Quote":"Don't cry because it's over, smile because it happened.",
-      "Author":"Dr. Seuss"
+      "quote":"Don't cry because it's over, smile because it happened.",
+      "author":"Dr. Seuss"
 }
 ```
 - [ ] <b><i>getRandomJoke()</i></b> returns an object containing body and category -<br>
