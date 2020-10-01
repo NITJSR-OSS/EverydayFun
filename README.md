@@ -7,6 +7,11 @@ Everyone is encouraged to participate, regardless of your skill level as it is e
 Use this project as a motivation to enter the world of Open Source Softwares.
 
 ## Installation
+
+[![NPM](https://nodei.co/npm/everyday-fun.png?compact=true&stars=true)](https://nodei.co/npm/everyday-fun/)
+
+![npm](https://img.shields.io/npm/dy/everyday-fun?style=for-the-badge)
+
 Make sure to [download and install Node.js](https://nodejs.org/en/download/).<br>
 Now, install the node js module using the following command:<br>
 ```json
