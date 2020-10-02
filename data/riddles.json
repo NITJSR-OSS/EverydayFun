@@ -246,5 +246,9 @@
   {
     "riddle": "Which creature has one voice and yet becomes four-footed and two-footed and three-footed?",
     "answer": "Human"
+  },
+  {
+    "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
+    "answer":"Neither—they both weigh a ton."
   }
 ]
