@@ -8,7 +8,7 @@ function getRandomItem(items) {
 
 function getRandomQuote() {
   return getRandomItem(quotes);
-};
+}
 
 function getRandomJoke() {
   return getRandomItem(jokes);
@@ -18,8 +18,17 @@ function getRandomRiddle() {
   return getRandomItem(riddles);
 }
 
+function surpriseMe() {
+  const quote = getRandomItem(quotes);
+  const joke = getRandomItem(jokes);
+  const riddle = getRandomItem(riddles);
+  const items = [quote, joke, riddle];
+  return items[Math.floor(Math.random() * items.length)];
+}
+
 module.exports = {
   getRandomQuote,
   getRandomJoke,
-  getRandomRiddle
+  getRandomRiddle,
+  surpriseMe
 };
