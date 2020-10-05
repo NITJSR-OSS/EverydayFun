@@ -1,5 +1,9 @@
 [
   {
+    "riddle":" If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
+    "answer":"Mirror"
+  },
+  {
     "riddle": "Thirty white horses on a red hill, First they champ, Then they stamp, Then they stand still. ",
     "answer": "Teeth"
   },
@@ -204,6 +208,10 @@
     "answer": "A road"
   },
   {
+    "riddle": "What has to be broken before you can use it?",
+    "answer": "Egg"
+  },
+  {
     "riddle": "What is so fragile that saying its name breaks it?",
     "answer": "Silence"
   },
@@ -247,8 +255,12 @@
     "riddle": "Which creature has one voice and yet becomes four-footed and two-footed and three-footed?",
     "answer": "Human"
   },
-   {
+  {
     "riddle": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I? ",
     "answer": "An echo"
+  },
+  {
+    "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
+    "answer":"Neither—they both weigh a ton."
   }
 ]
