@@ -208,6 +208,10 @@
     "answer": "A road"
   },
   {
+    "riddle": "What has to be broken before you can use it?",
+    "answer": "Egg"
+  },
+  {
     "riddle": "What is so fragile that saying its name breaks it?",
     "answer": "Silence"
   },
@@ -250,5 +254,9 @@
   {
     "riddle": "Which creature has one voice and yet becomes four-footed and two-footed and three-footed?",
     "answer": "Human"
+  },
+  {
+    "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
+    "answer":"Neither—they both weigh a ton."
   }
 ]
