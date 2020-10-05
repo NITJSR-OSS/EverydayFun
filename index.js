@@ -19,11 +19,10 @@ function getRandomRiddle() {
 }
 
 function surpriseMe() {
-  const quote = getRandomItem(quotes);
-  const joke = getRandomItem(jokes);
-  const riddle = getRandomItem(riddles);
-  const items = [quote, joke, riddle];
-  return items[Math.floor(Math.random() * items.length)];
+  const jsonDataBanks = [quotes, jokes, riddles];
+  const randomBank =
+    jsonDataBanks[Math.floor(Math.random() * jsonDataBanks.length)];
+  return getRandomItem(randomBank);
 }
 
 module.exports = {
