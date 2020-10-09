@@ -224,7 +224,7 @@
     "answer": "The future"
   },
   {
-    "riddle": "The more you fill a bag with it, the less the bag weights. What is it?",
+    "riddle": "The more you fill a bag with it, the less the bag weighs. What is it?",
     "answer": "Holes"
   },
   {
@@ -274,5 +274,29 @@
   {
     "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
     "answer":"Neither—they both weigh a ton."
-  }
+  },
+  {
+   "riddle":"How can you throw a ball, and have it come back to you without it bouncing off anything?",
+   "answer":"Through it straight into the air."
+  },
+  {
+    "riddle":"I begin with the letter E. I end with the letter E. I have one letter in me, but it is not the letter E. What am I?",
+    "answer":"An Envelope"
+   },
+   {
+    "riddle":"You take a knife, and cut me deep. I am not hurt, yet still you weep. What am I?",
+    "answer":"An Onion"
+   },
+   {
+    "riddle":"Let me eat and I will Live. Give me water and I will surely die. What am I?",
+    "answer":"Fire"
+   },
+   {
+    "riddle":"I weigh nothing, but you can see me. Put me in a bucket of water and I'll make it lighter. What am I?",
+    "answer":"A Hole"
+   },
+   {
+     "riddle": "I always perform under pressure, In theatres I don't entertain, Audiences can't stand to see me, But display me in fury and shame. What am I?",
+     "answer": "Blood. (Which rushes to your face when you are angry or embarassed.)"
+   }
 ]
