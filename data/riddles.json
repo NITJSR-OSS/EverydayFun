@@ -274,5 +274,9 @@
   {
     "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
     "answer":"Neither—they both weigh a ton."
+  },
+  {
+    "riddle": "I am not alive, but I grow. I don't have lungs, but I need air. I don't have a mouth, but water kills me. What am I?",
+    "answer": "Fire"
   }
 ]
