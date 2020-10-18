@@ -8,7 +8,7 @@ function getRandomItem(items) {
 
 function getRandomQuote() {
   return getRandomItem(quotes);
-};
+}
 
 function getRandomJoke() {
   return getRandomItem(jokes);
@@ -18,8 +18,16 @@ function getRandomRiddle() {
   return getRandomItem(riddles);
 }
 
+function surpriseMe() {
+  const jsonDataBanks = [quotes, jokes, riddles];
+  const randomBank =
+    jsonDataBanks[Math.floor(Math.random() * jsonDataBanks.length)];
+  return getRandomItem(randomBank);
+}
+
 module.exports = {
   getRandomQuote,
   getRandomJoke,
-  getRandomRiddle
+  getRandomRiddle,
+  surpriseMe
 };
