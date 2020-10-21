@@ -1,5 +1,37 @@
 [
   {
+    "quote": "A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.",
+    "author": "Jeff Bezos"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "quote" : "You are crying thinking of the hard time you are going through , but you cried even when you came into existence.",
+    "author" : "Dr. Hehehe"
+  },
+  {
+    "quote":"Be the change you want to see in the world",
+    "author":"MK Gandhi"
+  },
+  {
+    "quote":"A smooth sea never made a skilled sailor",
+    "author":"Franklin D. Roosevelt"
+  },
+  {
+    "quote":"Don't be afraid. Be focused. Be determined. Be hopeful. Be empowered.",
+    "author":"Michelle Obama"
+  },
+  {
+    "quote":"The purpose of our lives is to be happy.",
+    "author":"Dalai Lama"
+  },
+  {
+    "quote":"Never let the fear of striking out keep you from playing the game.",
+    "author":"Babe Ruth"
+  },
+  {
     "quote": "If you want to shine like sun, you have to burn like sun",
     "author": "Emaldson Hughes"
   },
@@ -10,6 +42,10 @@
   {
     "quote": "You will face many defeats in life, but never let yourself be defeated.",
     "author": "Maya Angelou"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs"
   },
   {
     "quote": "Be yourself; everyone else is already taken.",
@@ -310,6 +346,10 @@
   {
     "quote": "I'm not upset that you lied to me, I'm upset that from now on I can't believe you.",
     "author": "Friedrich Nietzsche"
+  },
+  {
+    "quote": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+    "author": "Mark Twain"
   },
   {
     "quote": "If you can't explain it to a six year old, you don't understand it yourself.",
@@ -5810,5 +5850,21 @@
   {
     "quote": "I find that the harder I work, the more luck I seem to have.",
     "author": "Thomas Jefferson"
+  },
+  {
+    "quote": "If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.",
+    "author": "The Buddha"
+  },
+  {
+    "quote": "life is not normal,but deal with it",
+    "author": "hardik vyas"
+  },
+  {
+    "quote": "Everyone's a whore, Grace. We just sell different parts of ourselves.",
+    "author": "Tommy Shelby (Peaky Blinders)"
+  },
+  {
+    "quote": "Let the chessboard supercede the card table, and a great improvement will be visible in the morals of the community.",
+    "author": "Paul Morphy"
   }
 ]
