@@ -8,6 +8,14 @@
     "answer": "a map"
   },
   {
+    "riddle": "I have branches, but no fruit, trunk or leaves. What am I?",
+    "answer": "A Bank"
+  },
+  {
+    "riddle":" If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
+    "answer":"Mirror"
+  },
+  {
     "riddle": "Thirty white horses on a red hill, First they champ, Then they stamp, Then they stand still. ",
     "answer": "Teeth"
   },
@@ -26,6 +34,10 @@
   {
     "riddle": "An eye in a blue face Saw an eye in a green face. 'That eye is like to this eye' Said the first eye, 'But in low place Not in high place.'",
     "answer": "Sun shining on daisies which are growing in a field"
+  },
+  {
+    "riddle": "What month of an year has 28 days?",
+    "answer": "All of them"
   },
   {
     "riddle": "Alive without breath, As cold as death; Never thirsty, ever drinking, All in mail never clinking",
@@ -258,5 +270,21 @@
   {
     "riddle": "Which creature has one voice and yet becomes four-footed and two-footed and three-footed?",
     "answer": "Human"
+  },
+  {
+    "riddle": "What is at the end of everything?",
+    "answer": "The letter g"
+  },
+  {
+    "riddle": "You can you serve it, but never eat it? What is it?",
+    "answer": "A tennis ball"
+  },
+  {
+    "riddle": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I? ",
+    "answer": "An echo"
+  },
+  {
+    "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
+    "answer":"Neither—they both weigh a ton."
   }
 ]
