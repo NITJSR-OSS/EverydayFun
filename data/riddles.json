@@ -306,5 +306,13 @@
   {
     "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
     "answer":"Neither—they both weigh a ton."
+  },
+  {
+    "riddle":"What has legs, but doesn’t walk?",
+    "answer":"A table"
+  },
+  {
+    "riddle":"What is cut on a table, but is never eaten?",
+    "answer":"A deck of cards"
   }
 ]
