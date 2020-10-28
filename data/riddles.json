@@ -306,5 +306,13 @@
   {
     "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
     "answer":"Neither—they both weigh a ton."
+  },
+  {
+    "riddle":"A man dies of old age on his 25 birthday. How is this possible?",
+    "answer":"He was born on February 29."
+  },
+  {
+    "riddle":"The more of this there is, the less you see. What is it?",
+    "answer":"Darkness"
   }
 ]
