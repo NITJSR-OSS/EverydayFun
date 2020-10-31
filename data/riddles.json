@@ -338,5 +338,9 @@
   {
     "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
     "answer":"Neither—they both weigh a ton."
+  },
+  {
+    "riddle": "What travels all around the world, but always stays in the corner? ",
+    "answer": "A stamp"
   }
 ]
