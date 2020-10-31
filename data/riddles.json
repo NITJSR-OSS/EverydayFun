@@ -338,5 +338,9 @@
   {
     "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
     "answer":"Neither—they both weigh a ton."
+  },
+  {
+    "riddle":"It’s raining at midnight, but the forecast for tomorrow and the next day is clear. Will there be sunny weather in 48 hours?",
+    "answer":"No, it won’t be sunny because it will be dark out. In 48 hours, it will be midnight again."
   }
 ]
