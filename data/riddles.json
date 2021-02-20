@@ -1,5 +1,9 @@
 [
   {
+    "riddle": "What man cannot live inside a house?",
+    "answer": "Snowman"
+  },
+  {
     "riddle": "What begins with T, ends with T, and has T in it?",
     "answer": "Teapot"
   },
@@ -32,24 +36,24 @@
     "answer":"Snowman"
   },
   {
-    "riddle":"The part of the computer that you can kick",
-    "answer":"Hardware"
+    "riddle": "The part of the computer that you can kick",
+    "answer": "Hardware"
   },
   {
-    "riddle":"Who makes it, has no need of it. Who buyes it, has no use for it Who uses it can neither.",
-    "answer":"A coffin"
+    "riddle": "Who makes it, has no need of it. Who buyes it, has no use for it Who uses it can neither.",
+    "answer": "A coffin"
   },
   {
-    "riddle":"I don't have eyes, but once I did see. Once I had thoughts, but now I'm white and empty.",
-    "answer":"Skull."
+    "riddle": "I don't have eyes, but once I did see. Once I had thoughts, but now I'm white and empty.",
+    "answer": "Skull."
   },
   {
-    "riddle":"Imagine you are in a sinking rowboat surrounded by sharks. How would you survive?",
-    "answer":"Quit imagining"
+    "riddle": "Imagine you are in a sinking rowboat surrounded by sharks. How would you survive?",
+    "answer": "Quit imagining"
   },
   {
-    "riddle":"I always come down and never ever go up? Think, think and think! We all just love it.",
-    "answer":"Rain"
+    "riddle": "I always come down and never ever go up? Think, think and think! We all just love it.",
+    "answer": "Rain"
   },
   {
     "riddle": "I am always hungry and will die if not fed, but whatever I touch will soon turn red. What am I?",
@@ -64,8 +68,8 @@
     "answer": "A Bank"
   },
   {
-    "riddle":" If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
-    "answer":"Mirror"
+    "riddle": " If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
+    "answer": "Mirror"
   },
   {
     "riddle": "Thirty white horses on a red hill, First they champ, Then they stamp, Then they stand still. ",
@@ -334,6 +338,14 @@
   {
     "riddle": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I? ",
     "answer": "An echo"
+  },
+  {
+    "riddle": "Which is heavier: a ton of bricks or a ton of feathers?",
+    "answer": "Neither—they both weigh a ton."
+  },
+  {
+    "riddle": "It belongs to you, but your friends use it more. What is it?",
+    "answer": "Your name."
   },
   {
     "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
