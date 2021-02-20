@@ -1,5 +1,69 @@
 [
   {
+    "riddle": "What begins with T, ends with T, and has T in it?",
+    "answer": "Teapot"
+  },
+  {
+    "riddle": "Nobody has ever walked this way. What way is that?",
+    "answer": "The Milky Way"
+  },
+  {
+    "riddle": "What is orange and sounds like a parrot?",
+    "answer": "Carrot"
+  },
+  {
+    "riddle": "What kind of room has no doors or windows?",
+    "answer": "Mushroom"
+  },
+  {
+    "riddle": "What starts with an E, ends with an E and only has one letter in it?",
+    "answer": "Envelope"
+  },
+  {
+    "riddle": "What has no beginning and no end”. ",
+    "answer": "Death"
+  },
+  {
+    "riddle": "What has one eye but cannot see”. ",
+    "answer": "Needle"
+  },
+  {
+    "riddle":"What man cannot live inside a house?",
+    "answer":"Snowman"
+  },
+  {
+    "riddle":"The part of the computer that you can kick",
+    "answer":"Hardware"
+  },
+  {
+    "riddle":"Who makes it, has no need of it. Who buyes it, has no use for it Who uses it can neither.",
+    "answer":"A coffin"
+  },
+  {
+    "riddle":"I don't have eyes, but once I did see. Once I had thoughts, but now I'm white and empty.",
+    "answer":"Skull."
+  },
+  {
+    "riddle":"Imagine you are in a sinking rowboat surrounded by sharks. How would you survive?",
+    "answer":"Quit imagining"
+  },
+  {
+    "riddle":"I always come down and never ever go up? Think, think and think! We all just love it.",
+    "answer":"Rain"
+  },
+  {
+    "riddle": "I am always hungry and will die if not fed, but whatever I touch will soon turn red. What am I?",
+    "answer": "fire"
+  },
+  {
+    "riddle": " I have lakes with no water, mountains with no stone and cities with no buildings. What am I?",
+    "answer": "a map"
+  },
+  {
+    "riddle": "I have branches, but no fruit, trunk or leaves. What am I?",
+    "answer": "A Bank"
+  },
+  {
     "riddle":" If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
     "answer":"Mirror"
   },
@@ -274,5 +338,13 @@
   {
     "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
     "answer":"Neither—they both weigh a ton."
+  },
+  {
+    "riddle":"I'm tall when I'm young, and I'm short when I'm old. What am I?",
+    "answer":"A candle"
+  },
+  {
+    "riddle":"What is full of holes but still holds water?",
+    "answer":"A sponge"
   }
 ]
