@@ -4,6 +4,38 @@
     "answer": "Snowman"
   },
   {
+    "riddle": "What begins with T, ends with T, and has T in it?",
+    "answer": "Teapot"
+  },
+  {
+    "riddle": "Nobody has ever walked this way. What way is that?",
+    "answer": "The Milky Way"
+  },
+  {
+    "riddle": "What is orange and sounds like a parrot?",
+    "answer": "Carrot"
+  },
+  {
+    "riddle": "What kind of room has no doors or windows?",
+    "answer": "Mushroom"
+  },
+  {
+    "riddle": "What starts with an E, ends with an E and only has one letter in it?",
+    "answer": "Envelope"
+  },
+  {
+    "riddle": "What has no beginning and no end”. ",
+    "answer": "Death"
+  },
+  {
+    "riddle": "What has one eye but cannot see”. ",
+    "answer": "Needle"
+  },
+  {
+    "riddle":"What man cannot live inside a house?",
+    "answer":"Snowman"
+  },
+  {
     "riddle": "The part of the computer that you can kick",
     "answer": "Hardware"
   },
@@ -314,5 +346,17 @@
   {
     "riddle": "It belongs to you, but your friends use it more. What is it?",
     "answer": "Your name."
+  },
+  {
+    "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
+    "answer":"Neither—they both weigh a ton."
+  },
+  {
+    "riddle":"I'm tall when I'm young, and I'm short when I'm old. What am I?",
+    "answer":"A candle"
+  },
+  {
+    "riddle":"What is full of holes but still holds water?",
+    "answer":"A sponge"
   }
 ]
