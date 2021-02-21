@@ -6,12 +6,42 @@ function getRandomItem(items) {
   return items[Math.floor(Math.random() * items.length)];
 }
 
-function getRandomQuote() {
-  return getRandomItem(quotes);
+function searchArray(items, element, criteria) {
+  let list = [];
+
+  if(typeof criteria === 'string') {
+    items.forEach(function(item) {
+      if(item[element] === criteria) {
+        list.push(item); 
+      }
+    })
+  } else if (typeof criteria === 'object') {
+    criteria.forEach(function(cri) {
+      items.forEach(function(item) {
+        if(item[element] === cri) {
+          list.push(item); 
+        }
+      })
+    })
+  }
+
+  return list;
+}
+
+function getRandomQuote(author) {
+  if(author) {
+    return searchArray(quotes, 'Author', author)
+  } else {
+    return getRandomItem(quotes);
+  }
 };
 
-function getRandomJoke() {
-  return getRandomItem(jokes);
+function getRandomJoke(category) {
+  if(category) {
+    return searchArray(jokes, 'category', category)
+  } else {
+    return getRandomItem(jokes);
+  }
 }
 
 function getRandomRiddle() {
