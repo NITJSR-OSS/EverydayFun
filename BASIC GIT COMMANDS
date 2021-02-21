@@ -1,0 +1,44 @@
+# BASIC GIT COMMANDS
+
+LEARN FROM EXAMPLES
+1. First we will learn how to contribute to an existing repo.
+//make a copy of the repo you want to contribute on your local mahcine
+git clone [link]
+
+//swtich to that repo directory 
+cd repo
+
+//create a new branch to store the new changes
+git branch branch-name
+git branch new-branch
+
+//switch to that new branch
+git checkout new-branch
+
+//make the changes like edit file1.md and file2.md
+
+//stage the changed files
+git add file1.md file2.md
+
+//take a snapshot of the changes
+git commit -m "snapshot"
+
+//push the change to the github
+git push --set-upstream origin new-branch
+
+
+2. Contribute to an existing branch on github
+So in above steps we learnt how to create a new repo and add new files to existing repo. this will create a new branch for our repo.
+
+cd repo - switch to the repo directory
+
+git pull- update all remote tracking branches and the currently checked out branch
+WHAT IS THE NEED OF GIT PULL
+
+git checkout feature-a        -change into the existing branch called 'feature-a'
+
+git add file1.md     -stage the change file
+
+git commit -m "edit file1"   -take a snapshot of the changes
+
+git push   -push the changes into the github
