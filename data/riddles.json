@@ -1,5 +1,14 @@
 [
   {
+    "riddle": "why do seagals dont fly over bay?",
+    "answer": "They dont wanna be called as baygals"
+  },
+  {
+    "riddle": "What is at the begining and the end of end of time and begining and the end of everyhing else?",
+    "answer": "Letter e"
+  },
+
+  {
     "riddle": "What begins with T, ends with T, and has T in it?",
     "answer": "Teapot"
   },
@@ -28,28 +37,28 @@
     "answer": "Needle"
   },
   {
-    "riddle":"What man cannot live inside a house?",
-    "answer":"Snowman"
+    "riddle": "What man cannot live inside a house?",
+    "answer": "Snowman"
   },
   {
-    "riddle":"The part of the computer that you can kick",
-    "answer":"Hardware"
+    "riddle": "The part of the computer that you can kick",
+    "answer": "Hardware"
   },
   {
-    "riddle":"Who makes it, has no need of it. Who buyes it, has no use for it Who uses it can neither.",
-    "answer":"A coffin"
+    "riddle": "Who makes it, has no need of it. Who buyes it, has no use for it Who uses it can neither.",
+    "answer": "A coffin"
   },
   {
-    "riddle":"I don't have eyes, but once I did see. Once I had thoughts, but now I'm white and empty.",
-    "answer":"Skull."
+    "riddle": "I don't have eyes, but once I did see. Once I had thoughts, but now I'm white and empty.",
+    "answer": "Skull."
   },
   {
-    "riddle":"Imagine you are in a sinking rowboat surrounded by sharks. How would you survive?",
-    "answer":"Quit imagining"
+    "riddle": "Imagine you are in a sinking rowboat surrounded by sharks. How would you survive?",
+    "answer": "Quit imagining"
   },
   {
-    "riddle":"I always come down and never ever go up? Think, think and think! We all just love it.",
-    "answer":"Rain"
+    "riddle": "I always come down and never ever go up? Think, think and think! We all just love it.",
+    "answer": "Rain"
   },
   {
     "riddle": "I am always hungry and will die if not fed, but whatever I touch will soon turn red. What am I?",
@@ -64,8 +73,8 @@
     "answer": "A Bank"
   },
   {
-    "riddle":" If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
-    "answer":"Mirror"
+    "riddle": " If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
+    "answer": "Mirror"
   },
   {
     "riddle": "Thirty white horses on a red hill, First they champ, Then they stamp, Then they stand still. ",
@@ -336,15 +345,15 @@
     "answer": "An echo"
   },
   {
-    "riddle":"Which is heavier: a ton of bricks or a ton of feathers?",
-    "answer":"Neither—they both weigh a ton."
+    "riddle": "Which is heavier: a ton of bricks or a ton of feathers?",
+    "answer": "Neither—they both weigh a ton."
   },
   {
-    "riddle":"I'm tall when I'm young, and I'm short when I'm old. What am I?",
-    "answer":"A candle"
+    "riddle": "I'm tall when I'm young, and I'm short when I'm old. What am I?",
+    "answer": "A candle"
   },
   {
-    "riddle":"What is full of holes but still holds water?",
-    "answer":"A sponge"
+    "riddle": "What is full of holes but still holds water?",
+    "answer": "A sponge"
   }
 ]
